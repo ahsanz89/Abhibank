@@ -1,0 +1,34 @@
+{
+  "name": "abhibank-website",
+  "version": "1.0.0",
+  "private": true,
+  "description": "ABHI Microfinance Bank — redesigned website (Next.js, React, TypeScript)",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint .",
+    "typecheck": "tsc --noEmit",
+    "db:migrate": "node scripts/migrate.mjs",
+    "test:e2e": "node scripts/smoke-test.mjs"
+  },
+  "engines": { "node": ">=20.9" },
+  "dependencies": {
+    "@fontsource-variable/bricolage-grotesque": "5.3.0",
+    "@fontsource/poppins": "5.3.0",
+    "lucide-react": "1.72.0",
+    "next": "16.4.6",
+    "pg": "8.23.1",
+    "react": "19.3.1",
+    "react-dom": "19.3.1"
+  },
+  "devDependencies": {
+    "@types/node": "^22",
+    "@types/pg": "8.23.1",
+    "@types/react": "19.3.0",
+    "@types/react-dom": "19.3.0",
+    "eslint": "^10",
+    "eslint-config-next": "16.4.6",
+    "typescript": "5.9.3"
+  }
+}
