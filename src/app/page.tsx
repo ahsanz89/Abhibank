@@ -312,7 +312,7 @@ export default function HomePage() {
               </div>
             ))}
           </div>
-          <div style={{ marginTop: 56, maxWidth: 960 }}>
+          <div style={{ marginTop: 56 }}>
             <LiteYouTube url="https://www.youtube.com/watch?v=prZcCXPULE4" title="ABHI Microfinance Bank — our journey" />
           </div>
         </div>

@@ -380,6 +380,8 @@ a:hover .link-arrow svg,
   color: var(--brand-soft);
 }
 .chip-row {
+  min-width: 0;
+  max-width: 100%;
   display: flex;
   gap: 10px;
   overflow-x: auto;
@@ -482,6 +484,11 @@ a:hover .link-arrow svg,
 }
 .product-card__desc {
   flex: 1;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 4;
+  line-clamp: 4;
+  overflow: hidden;
   font-size: 15px;
   font-weight: 300;
   color: var(--text-muted);
@@ -581,6 +588,15 @@ a:hover .link-arrow svg,
   letter-spacing: -0.05em;
   line-height: 0.9;
   font-variant-numeric: tabular-nums;
+  white-space: nowrap;
+}
+.countup__prefix {
+  font-size: 0.38em;
+  font-weight: 400;
+  letter-spacing: 0;
+  margin-right: 0.18em;
+  vertical-align: 0.95em;
+  color: var(--text-muted);
 }
 .stat__label {
   font-size: 15px;
@@ -955,6 +971,7 @@ a:hover .link-arrow svg,
 
 /* ───────────── Table ───────────── */
 .table-wrap {
+  position: relative;
   overflow-x: auto;
   border: 1px solid var(--line);
   border-radius: var(--radius-lg);

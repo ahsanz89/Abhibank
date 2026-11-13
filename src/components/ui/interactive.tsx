@@ -63,7 +63,7 @@ export function CountUp({ value, decimals = 0, prefix = "", suffix = "" }: { val
   return (
     <span ref={ref} aria-label={`${prefix}${value.toFixed(decimals)}${suffix}`}>
       <span aria-hidden="true">
-        {prefix}
+        {prefix && <span className="countup__prefix">{prefix.trim()}</span>}
         {n.toFixed(decimals)}
         {suffix}
       </span>

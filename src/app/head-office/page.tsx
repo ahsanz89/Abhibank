@@ -33,11 +33,11 @@ export default function HeadOfficePage() {
             ].map(([I, t, h]) => {
               const Ico = I as typeof Phone;
               return (
-                <a key={t as string} href={h as string} className="card card--interactive locator__item" target={(h as string).startsWith("http") ? "_blank" : undefined} rel="noopener noreferrer">
+                <a key={t as string} href={h as string} className="card card--interactive" style={{ display: "flex", alignItems: "center", gap: 18, padding: 20, textAlign: "left" }} target={(h as string).startsWith("http") ? "_blank" : undefined} rel="noopener noreferrer">
                   <span className="icon-tile">
                     <Ico size={19} aria-hidden="true" />
                   </span>
-                  <span style={{ fontSize: 17, alignSelf: "center" }}>{t as string}</span>
+                  <span style={{ fontSize: 17 }}>{t as string}</span>
                 </a>
               );
             })}

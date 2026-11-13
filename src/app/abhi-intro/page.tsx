@@ -41,10 +41,10 @@ export default function IpoPage() {
   return (
     <>
       <section className="hero" aria-labelledby="ipo-title" style={{ minHeight: "min(88vh, 860px)", display: "flex", alignItems: "flex-end" }}>
-        <video className="hide-mobile" autoPlay muted loop playsInline poster="/assets/ipo/hero.webp" aria-hidden="true" style={{ position: "absolute", inset: 0, width: "100%", height: "100%", objectFit: "cover", opacity: 0.35 }}>
+        <video className="hide-mobile" autoPlay muted loop playsInline aria-hidden="true" style={{ position: "absolute", inset: 0, width: "100%", height: "100%", objectFit: "cover", opacity: 0.35 }}>
           <source src={legacyAsset("https://abhibank.com/wp-content/uploads/2026/08/abhiinto.mp4")} type="video/mp4" />
         </video>
-        <div aria-hidden="true" style={{ position: "absolute", inset: 0, background: "linear-gradient(180deg, rgba(10,25,47,.2), rgba(10,25,47,.95) 85%)" }} />
+        <div aria-hidden="true" style={{ position: "absolute", inset: 0, background: "linear-gradient(90deg, rgba(10,25,47,.92) 0%, rgba(10,25,47,.55) 55%, rgba(10,25,47,.25) 100%), linear-gradient(180deg, rgba(10,25,47,0) 40%, rgba(10,25,47,.95) 92%)" }} />
         <div className="container" style={{ position: "relative", paddingBlock: "120px 96px" }}>
           <div className="stack" style={{ gap: 28, maxWidth: 980 }}>
             <Image src="/assets/brand/logo-white.svg" alt="ABHI" width={160} height={77} style={{ width: 150, height: "auto" }} />
@@ -77,10 +77,10 @@ export default function IpoPage() {
                 <tbody>
                   {FACTS.map(([k, v]) => (
                     <tr key={k}>
-                      <th scope="row" style={{ textTransform: "none", letterSpacing: 0, fontSize: 15, fontWeight: 300, color: "var(--text-secondary)" }}>
+                      <th scope="row" style={{ textTransform: "none", letterSpacing: 0, fontSize: 15, fontWeight: 300, color: "var(--text-secondary)", whiteSpace: "normal" }}>
                         {k}
                       </th>
-                      <td className="strong" style={{ textAlign: "right" }}>
+                      <td className="strong" style={{ textAlign: "right", whiteSpace: "nowrap" }}>
                         {v}
                       </td>
                     </tr>

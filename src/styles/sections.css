@@ -488,6 +488,8 @@
   }
 }
 .search {
+  min-width: 0;
+  max-width: 100%;
   display: flex;
   align-items: center;
   gap: 12px;
@@ -634,4 +636,9 @@
 }
 .h-scroll > * {
   scroll-snap-align: start;
+}
+
+.search input {
+  min-width: 0;
+  width: 100%;
 }
