@@ -1,0 +1,99 @@
+/* ABHI design tokens — mirror the Figma/canvas design system. */
+:root {
+  /* primitives */
+  --navy-950: #040a12;
+  --navy-900: #0a192f;
+  --navy-850: #0d1f38;
+  --navy-800: #10233f;
+  --navy-700: #1a3152;
+  --navy-600: #2a4468;
+  --navy-400: #5d7394;
+  --navy-300: #93a6c1;
+  --navy-100: #dce4ef;
+  --navy-50: #f3f6fa;
+  --mint-700: #127a5a;
+  --mint-600: #24ab81;
+  --mint-500: #3ece9e;
+  --mint-300: #8de5c6;
+  --mint-100: #d9f7ec;
+  --periwinkle-500: #5b6fd8;
+  --periwinkle-300: #c3cbf5;
+  --amber-500: #f2b23a;
+  --red-500: #e5484d;
+  --red-300: #ff8a8d;
+  --blue-500: #3b9eff;
+
+  /* semantic */
+  --bg-canvas: var(--navy-950);
+  --bg-surface: var(--navy-900);
+  --bg-elevated: var(--navy-800);
+  --text-primary: #ffffff;
+  --text-secondary: #c9d4e3;
+  --text-muted: var(--navy-300);
+  --text-on-brand: var(--navy-950);
+  --brand: var(--mint-500);
+  --brand-strong: var(--mint-600);
+  --brand-soft: var(--mint-300);
+  --accent: var(--periwinkle-500);
+  --line: rgba(255, 255, 255, 0.08);
+  --line-strong: rgba(255, 255, 255, 0.16);
+  --success: var(--mint-500);
+  --warning: var(--amber-500);
+  --error: var(--red-300);
+  --info: var(--blue-500);
+
+  /* type */
+  --font-display: "Bricolage Grotesque Variable", "Poppins", system-ui, sans-serif;
+  --font-body: "Poppins", system-ui, -apple-system, "Segoe UI", sans-serif;
+
+  /* spacing (4px base) */
+  --space-1: 4px;
+  --space-2: 8px;
+  --space-3: 12px;
+  --space-4: 16px;
+  --space-5: 20px;
+  --space-6: 24px;
+  --space-8: 32px;
+  --space-10: 40px;
+  --space-12: 48px;
+  --space-16: 64px;
+  --space-24: 96px;
+  --space-32: 128px;
+  --section-y: 128px;
+  --gutter: 80px;
+  --container: 1280px;
+
+  /* radius */
+  --radius-sm: 10px;
+  --radius-md: 14px;
+  --radius-lg: 20px;
+  --radius-xl: 28px;
+  --radius-full: 999px;
+
+  /* elevation */
+  --shadow-1: 0 4px 14px rgba(1, 4, 8, 0.35);
+  --shadow-2: 0 24px 48px -12px rgba(1, 4, 8, 0.7);
+  --glow-mint: 0 10px 30px -12px rgba(62, 206, 158, 0.7);
+
+  /* motion */
+  --dur-fast: 140ms;
+  --dur-base: 240ms;
+  --dur-slow: 520ms;
+  --ease-out: cubic-bezier(0.2, 0.8, 0.2, 1);
+  --header-h: 112px;
+}
+
+@media (max-width: 1180px) {
+  :root {
+    --gutter: 40px;
+    --section-y: 104px;
+  }
+}
+
+@media (max-width: 720px) {
+  :root {
+    --gutter: 20px;
+    --section-y: 76px;
+    --header-h: 98px;
+  }
+}
