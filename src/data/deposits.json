@@ -1,0 +1,230 @@
+[
+ {
+  "slug": "niswan-rozana-munafa",
+  "name": "Niswan Rozana Munafa",
+  "type": "Savings",
+  "summary": "A daily savings account designed exclusively for women, offering all the benefits of our Rozana Munafa Account with features tailored to suit female customers.",
+  "categories": [
+   "savings",
+   "women"
+  ],
+  "image": "/assets/products/niswan-rozana-munafa.webp",
+  "headline": null,
+  "intro": [
+   "Niswan Rozana Munafa Account is a daily savings account curated specially for females. This is a high-yield savings product to meet the day-to-day financial needs of women, offering Free ATM Card, cheque book and locker facilities."
+  ],
+  "sections": [
+   {
+    "title": "Features & Specifications",
+    "items": [
+     "Rate of return 11%.",
+     "Initial Deposit: As per prevailing SOC",
+     "Profit payout: As per prevailing rates",
+     "Free ATM Card with ATM facility available across 1Link network",
+     "Free Cheque book",
+     "Free Locker Facility",
+     "ABHI Bank App – Digital Mobile Application",
+     "IBFT Facility",
+     "24/7 Call Center Assistance"
+    ]
+   },
+   {
+    "title": "Min Eligibility Requirements",
+    "items": [
+     "Resident Pakistani National.",
+     "Hold Valid CNIC (Computerized National Identity Card).",
+     "Age between 21 to 62 Years (At the time of approval of loan).",
+     "Not Part of Any Customer / Loan Exclusion / Negative List.",
+     "Involved in Business for Last 01 Year.",
+     "Running Business at Current Location for Last 01 Year."
+    ]
+   }
+  ]
+ },
+ {
+  "slug": "asaan-account",
+  "name": "Asaan Account",
+  "type": "Savings",
+  "summary": "Banking made effortless, no minimum balance, no transaction requirements, just simplicity at your fingertips.",
+  "categories": [
+   "savings"
+  ],
+  "image": "/assets/products/asaan-account.webp",
+  "headline": null,
+  "intro": [
+   "Opening a bank account couldn’t be easier. ABHI now offers the Asaan Account with no transaction or balance requirements. This makes it easier for low-income individuals to maintain and account and improve their household finances."
+  ],
+  "sections": [
+   {
+    "title": "Features",
+    "items": [
+     "Account opening with PKR 100",
+     "Account Debit and Credit Limits as per latest SBP instructions",
+     "No minimum or average balance requirement",
+     "Zakat deduction not applicable",
+     "Personalized Cheque Book facility",
+     "ATM facility",
+     "IBFT facility",
+     "Online Banking",
+     "24/7 Call Center Assistance",
+     "Nationwide network of 114 branches in over 103 cities"
+    ]
+   }
+  ]
+ },
+ {
+  "slug": "sahulat-current-account",
+  "name": "Sahulat Current Account",
+  "type": "Current",
+  "summary": "The perfect choice for businesses looking to streamline operations and boost development.",
+  "categories": [
+   "current",
+   "business"
+  ],
+  "image": "/assets/products/sahulat-current-account.webp",
+  "headline": "Sahulat Current Account",
+  "intro": [
+   "An account for all your business needs! The Sahulat Current Account is for business owners that need convenient transactions at minimal cost. We understand the needs of your business: a high volume of transactions, convenient and speedy access to your money, and low-cost transfers to and from business partners across Pakistan."
+  ],
+  "sections": [
+   {
+    "title": "Features",
+    "items": [
+     "SMS alerts on every transaction",
+     "Online Banking",
+     "24/7 Call Center Assistance",
+     "Rapidly growing nationwide network of 114 branches in over 103 cities"
+    ]
+   }
+  ]
+ },
+ {
+  "slug": "rozana-munafa",
+  "name": "Rozana Munafa",
+  "type": "Savings",
+  "summary": "ABHI Microfinance Bank offers Rozana Munafa, a brilliant opportunity for you to save meaningfully.",
+  "categories": [
+   "savings"
+  ],
+  "image": "/assets/products/rozana-munafa.webp",
+  "headline": "Secure prosperity through Profits and Savings!",
+  "intro": [
+   "Rozana Munafa is a high-yield savings product to meet the day-to-day financial needs of a wide variety of individuals. Rozana Munafa provides an opportunity to enjoy high returns without any transaction limits."
+  ],
+  "sections": [
+   {
+    "title": "Features",
+    "items": [
+     "Payment of profit on monthly basis",
+     "ATM Facility across 1Link network",
+     "Instant SMS Alerts on every transaction",
+     "Personalized Cheque Book",
+     "IBFT Facility",
+     "ABHIBank App – Digital Mobile Application",
+     "24/7 Call Center Assistance"
+    ]
+   }
+  ]
+ },
+ {
+  "slug": "aitemad-bachat-account",
+  "name": "Aitemad Bachat Account",
+  "type": "Savings",
+  "summary": "Saving is essential for a prosperous future. That’s why the Aitemad Bachat Account is the best choice for you!",
+  "categories": [
+   "savings"
+  ],
+  "image": "/assets/products/aitemad-bachat-account.webp",
+  "headline": "Save Today for a Brighter Tomorrow!",
+  "intro": [
+   "Aitemad Savings Account is an all-purpose savings account. The account specifications are tailor made for small savers with small volume of transactions. The account provides opportunity for customers to earn lucrative profit while enjoying full banking services."
+  ],
+  "sections": [
+   {
+    "title": "Features",
+    "items": [
+     "Payment of profit on half-yearly basis",
+     "ABHIBank App – Digital Mobile Application",
+     "24/7 Call Center Assistance"
+    ]
+   }
+  ]
+ },
+ {
+  "slug": "muhaffiz-term-deposit",
+  "name": "Muhaffiz Term Deposit",
+  "type": "Term deposit",
+  "summary": "Retirement is not the end of your dreams, it’s just another milestone.",
+  "categories": [
+   "term"
+  ],
+  "image": "/assets/products/muhaffiz-term-deposit.webp",
+  "headline": "Secure Investment, Maximum Returns",
+  "intro": [
+   "We want our customers to feel proud of their bond with us. Our Muhaffiz Term Deposit Account (for the Elderly, Pensioners, Retired Military Personnel and Widows) helps secure that bond. State-of-the-art banking facilities with a range of attractive features make the Muhaffiz Term Deposit an ideal product for individuals looking for a secured investment and maximum return."
+  ],
+  "sections": [
+   {
+    "title": "Features",
+    "items": [
+     "Minimum investment of Rs. 1,000",
+     "Senior Citizens (aged 50 or above), Pensioners and Widows",
+     "ABHIBank App – Digital Mobile Application",
+     "Instant SMS alerts on every transaction",
+     "24/7 Call Center Assistance"
+    ]
+   }
+  ]
+ },
+ {
+  "slug": "tahafuz-term-deposit",
+  "name": "Tahafuz Term Deposit",
+  "type": "Term deposit",
+  "summary": "For a prosperous life, all you need is a Tahafuz Term Deposit Account.",
+  "categories": [
+   "term"
+  ],
+  "image": "/assets/products/tahafuz-term-deposit.webp",
+  "headline": "Secure your future with us!",
+  "intro": [
+   "We work to build brighter futures with our clients. Investments made today are the seeds of a flourishing tomorrow. Tahafuz Term Deposit Account offers attractive rates with a higher deposit placement for fixed tenors with a variety of profit payment options"
+  ],
+  "sections": [
+   {
+    "title": "Features",
+    "items": [
+     "Minimum investment of Rs. 5,000",
+     "ABHIBank App – Digital Mobile Application",
+     "24/7 Call Center Assistance"
+    ]
+   }
+  ]
+ },
+ {
+  "slug": "sahulat-plus-current-account",
+  "name": "Sahulat Plus Current Account",
+  "type": "Current",
+  "summary": "A current account offering a wide array of value added services and hassle free banking for all our customers.",
+  "categories": [
+   "current",
+   "business"
+  ],
+  "image": "/assets/products/sahulat-plus-current-account.webp",
+  "headline": null,
+  "intro": [
+   "Current account designed to provide our customers with an enhanced experience of hassle-free banking and a wide array of value-added services. Enjoy exclusive features, benefits, and complimentary services tailored to your financial needs with Sahulat Plus Current Account."
+  ],
+  "sections": [
+   {
+    "title": "Features",
+    "items": [
+     "Free Cheque Books & ATM Card",
+     "Pay orders & IBFT Facility",
+     "Cash pick up Service",
+     "ABHIBank App Access",
+     "Classic ATM Card and Prestige ATM Card available"
+    ]
+   }
+  ]
+ }
+]

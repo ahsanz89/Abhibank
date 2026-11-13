@@ -1,0 +1,339 @@
+[
+ {
+  "slug": "tractor-loan",
+  "name": "Tractor Loan",
+  "summary": "A tractor is an essential necessity of farming therefore ABHI brings Tractor Loan for all farmers.",
+  "categories": [
+   "farming"
+  ],
+  "amountRange": "PKR 500,000 – 2,000,000",
+  "image": "/assets/products/tractor-loan.webp",
+  "intro": [
+   "A tractor is an essential necessity of farming therefore ABHI brings Tractor Loan for farmers. It gives them the opportunity to buy a new or used tractors at low markup rates to help increase their agricultural yield."
+  ],
+  "sections": [
+   {
+    "title": "Features & Specifications",
+    "items": [
+     "Credit Amount from PKR 500,000 to PKR 2,000,000",
+     "Tenure from 1-5 years",
+     "10% Down Payment",
+     "Available for the purchase of new or old tractor",
+     "Instant SMS alert on every transaction",
+     "IBFT Facility",
+     "24/7 Call Center Assistance"
+    ]
+   },
+   {
+    "title": "Min Eligibility Requirements",
+    "items": [
+     "Age between 21 yrs to 65 yrs (at the time of loan approval)",
+     "Valid CNIC",
+     "Experience in crop farming for >1 year",
+     "Owns minimum 1-acre land",
+     "Documents of Agricultural Land",
+     "Personal & Business address within the zone/radius of the associated branch"
+    ]
+   }
+  ]
+ },
+ {
+  "slug": "niswan-karza",
+  "name": "Niswan Karza",
+  "summary": "A short to medium-term loan facility for female entrepreneurs.",
+  "categories": [
+   "business",
+   "women"
+  ],
+  "amountRange": null,
+  "image": "/assets/products/niswan-karza.webp",
+  "intro": [
+   "A successful woman is the one who can build a firm foundation. Niswan Karza helps women build that foundation with a loan for their business needs."
+  ],
+  "sections": [
+   {
+    "title": "Features & Specifications",
+    "items": [
+     "Credit tenure: 6, 12, 15 and 18 months",
+     "Repayment in Equal Monthly Installments (EMI)",
+     "Convenient & easy to understand paper work",
+     "Instant SMS alerts on every transaction",
+     "ABHI Bank App – Digital Mobile Application",
+     "IBFT Facility",
+     "24/7 Call Center Assistance"
+    ]
+   },
+   {
+    "title": "Min Eligibility Requirements",
+    "items": [
+     "Resident Pakistani National.",
+     "Hold Valid CNIC (Computerized National Identity Card).",
+     "Age between 21 to 62 Years (At the time of approval of loan).",
+     "Not Part of Any Customer / Loan Exclusion / Negative List.",
+     "Involved in Business for Last 01 Year.",
+     "Running Business at Current Location for Last 01 Year."
+    ]
+   }
+  ]
+ },
+ {
+  "slug": "light-commercial-vehicle-loan",
+  "name": "Light Commercial Vehicle Loan",
+  "summary": "This loan facility caters to the needs of business individuals involved in the transportation business.",
+  "categories": [
+   "business",
+   "vehicles"
+  ],
+  "amountRange": "PKR 400,000 – 2,000,000",
+  "image": "/assets/products/light-commercial-vehicle-loan.webp",
+  "intro": [
+   "A tractor is an essential necessity of farming therefore ABHI brings Tractor Loan for farmers. It gives them the opportunity to buy a new or used tractors at low markup rates to help increase their agricultural yield."
+  ],
+  "sections": [
+   {
+    "title": "Features & Specifications",
+    "items": [
+     "Credit Amount from PKR 500,000 to 2,000,000",
+     "Tenure from 1 – 5 years",
+     "Easy Monthly Installments",
+     "10% Down Payment",
+     "Instant SMS alert on every transactions",
+     "IBFT Facility",
+     "24/7 Call Center Assistance."
+    ]
+   },
+   {
+    "title": "Min Eligibility Requirements",
+    "items": [
+     "Age between 21 to 62 (at the time of Loan approval)",
+     "1 Passport size picture",
+     "Valid CNIC",
+     "Valid Evidence of Monthly Income"
+    ]
+   }
+  ]
+ },
+ {
+  "slug": "karobari-karza",
+  "name": "Karobari Karza",
+  "summary": "A loan facility that helps businessmen raise capital for their businesses.",
+  "categories": [
+   "business"
+  ],
+  "amountRange": null,
+  "image": "/assets/products/karobari-karza.webp",
+  "intro": [
+   "Take your business to new heights with Karobari Karza that gives you a chance to fulfil your working capital / capital expenditure requirements for your business."
+  ],
+  "sections": [
+   {
+    "title": "Features & Specifications",
+    "items": [
+     "Credit Amount ranges from PKR 100,000 to PKR 500,000",
+     "Credit tenure can be 6, 12, 15, 18 or 24 months",
+     "Repayment in Equal Monthly Installments (EMI)",
+     "Convenient & easy to understand paper work",
+     "Instant SMS alerts on every transaction",
+     "ABHIBank App – Digital Mobile Application",
+     "IBFT Facility",
+     "24/7 Call Center Assistance"
+    ]
+   },
+   {
+    "title": "Min Eligibility Requirements",
+    "items": [
+     "Age between 21 to 66 years (at the time of loan approval)",
+     "Valid CNIC",
+     "Operational business for >1 year",
+     "Personal guarantor"
+    ]
+   }
+  ]
+ },
+ {
+  "slug": "kashtkar-karza",
+  "name": "Kashtkar Karza",
+  "summary": "A loan that meets a farmer’s financial needs to support expansion of their farming business.",
+  "categories": [
+   "farming"
+  ],
+  "amountRange": null,
+  "image": "/assets/products/kashtkar-karza.webp",
+  "intro": [
+   "Kashtkar Karza gives farmers the opportunity to expand their farming business. Repayment of this loan is synced with crop cycles to provide ease."
+  ],
+  "sections": [
+   {
+    "title": "Features & Specifications",
+    "items": [
+     "Credit amount from PKR 50,000 to PKR 500,000",
+     "Tenure from 3 to 12 months (15 months for Sugarcane only)",
+     "Lump Sum repayment",
+     "Convenient & easy to understand loan process",
+     "Instant SMS alerts on every transaction",
+     "IBFT Facility",
+     "24/7 Call Center Assistance"
+    ]
+   },
+   {
+    "title": "Min Eligibility Requirements",
+    "items": [
+     "Age between 21 to 66 years (at the time of approval of loan)",
+     "Valid CNIC",
+     "Experience in crop farming for >1 year",
+     "Personal guarantor"
+    ]
+   }
+  ]
+ },
+ {
+  "slug": "maweshi-karza",
+  "name": "Maweshi Karza",
+  "summary": "A convenient lending product that caters to the needs of livestock farmers.",
+  "categories": [
+   "farming"
+  ],
+  "amountRange": null,
+  "image": "/assets/products/maweshi-karza.webp",
+  "intro": [
+   "A loan facility that is designed to meet the ever growing financial needs of the livestock sector to increase productivity and fulfill capital requirements."
+  ],
+  "sections": [
+   {
+    "title": "Features & Specifications",
+    "items": [
+     "Credit amount ranges from PKR 100,000 to PKR 500,000",
+     "Repayment in Equal Monthly Installments or Lump Sum",
+     "Tenure from 3 to 12 (Lump Sum); 6, 12, 15, 18 or 24 months (EMI)",
+     "Convenient & easy to understand paper work",
+     "Instant SMS alerts on every transaction",
+     "ABHIBank App – Digital Mobile Application",
+     "Cheque Book",
+     "Call Center assistance 24/7"
+    ]
+   },
+   {
+    "title": "Min Eligibility Requirements",
+    "items": [
+     "Age between 21 to 66 years (at the time of approval of loan)",
+     "Valid CNIC",
+     "Operational Livestock business for >1 year",
+     "Personal guarantor"
+    ]
+   }
+  ]
+ },
+ {
+  "slug": "sunheri-karza",
+  "name": "Sunheri Karza",
+  "summary": "Convert your gold jewelry into working capital for your business needs.",
+  "categories": [
+   "gold",
+   "business"
+  ],
+  "amountRange": "PKR 40,000 – 2,000,000",
+  "image": "/assets/products/sunheri-karza.webp",
+  "intro": [
+   "Instead of selling your gold to finance or expand your business, you can now provide gold as a security collateral against the loan while still keeping ownership of your gold."
+  ],
+  "sections": [
+   {
+    "title": "Features & Specifications",
+    "items": [
+     "Credit Amount from PKR 100,000 to PKR 5,000,000",
+     "Credit tenure can be 6 to 12, 18, 24 & 36 months (EMI); 3 to 12 & 18 months (Lump Sum)",
+     "Repayment in Lump Sum or Equal Monthly Installments",
+     "Convenient & easy to understand paper work",
+     "Instant SMS alerts on every transaction",
+     "ABHIBank App – Digital Mobile Application",
+     "IBFT Facility",
+     "24/7 Call Center Assistance"
+    ]
+   },
+   {
+    "title": "Min Eligibility Requirements",
+    "items": [
+     "Valid CNIC",
+     "Age between 18 to 70 years (at the time of loan approval)",
+     "Gold (Ornaments or Bullion)",
+     "Applicable Gold Rate:",
+     "Weekly Average Rate of Gold"
+    ]
+   }
+  ]
+ },
+ {
+  "slug": "house-loan-renovation-improvement",
+  "name": "House Loan (Renovation / Improvement)",
+  "summary": "A medium to long-term loan facility for house renovation purposes.",
+  "categories": [
+   "vehicles"
+  ],
+  "amountRange": "PKR 75,000 – 2,000,000",
+  "image": "/assets/products/house-loan-renovation-improvement.webp",
+  "intro": [
+   "House Loan is a medium to long term loan facility. The product is designed for renovation, improvement, extension, restoration and enhancement of customer’s existing housing unit."
+  ],
+  "sections": [
+   {
+    "title": "Features & Specifications",
+    "items": [
+     "Credit Amount from PKR 75,000 to PKR 2,000,000.",
+     "Competitive Mark-up Rate.",
+     "Credit Tenure: Up to 5 years (up to 24 months for unsecured).",
+     "Easy monthly installments.",
+     "Minimum documentation & Quick Loan Processing.",
+     "Repayment in Equal Monthly Installments (EMI).",
+     "Instant SMS alerts on every transaction.",
+     "ABHIBank App – Digital Mobile Application",
+     "IBFT Facility.",
+     "24/7 Call Center Assistance."
+    ]
+   },
+   {
+    "title": "Min Eligibility Requirements",
+    "items": [
+     "Age limit 21 to 62 years (up to 60 years for salaried individuals).",
+     "02 years business / employment experience (03 years for contractual employee).",
+     "Valid CNIC."
+    ]
+   }
+  ]
+ },
+ {
+  "slug": "motorcycle-loan",
+  "name": "Motorcycle Loan",
+  "summary": "A short to medium-term conveyance loan facility designed to finance motorcycle (s) of reputed brand (s).",
+  "categories": [
+   "vehicles"
+  ],
+  "amountRange": null,
+  "image": "/assets/products/motorcycle-loan.webp",
+  "intro": [
+   "Motorcycle Loan is funded secured short to medium-term loan facility classified as business / conveyance loan and is designed to finance motorcycle (s) of reputed brand (s). The loan is payable in equal monthly installments. This facility will be extended for Business transportation needs of businessperson/ self-employed professionals & carriage needs of Milkman (Livestock dairy customers)."
+  ],
+  "sections": [
+   {
+    "title": "Features & Specifications",
+    "items": [
+     "Credit amount from PKR 30,000 to PKR 150,000.",
+     "Credit tenure: 12, 24 & 36 months.",
+     "Repayment in Equally Monthly Installments (EMI).",
+     "Convenient & easy to understand paper work.",
+     "Instant SMS alerts on every transactions.",
+     "Online Banking.",
+     "IBFT Facility."
+    ]
+   },
+   {
+    "title": "Min Eligibility Requirements",
+    "items": [
+     "Resident Pakistani National.",
+     "Hold Valid CNIC (Computerized National Identity Card).",
+     "Age between 21 to 62 Years (At the time of approval of loan).",
+     "Not Part of Any Customer / Loan Exclusion / Negative List."
+    ]
+   }
+  ]
+ }
+]

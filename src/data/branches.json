@@ -1,0 +1,950 @@
+[
+ {
+  "region": "Accessible Model Branches",
+  "description": "Providing seamless physical access to financial empowerment across key regions.",
+  "branches": [
+   {
+    "city": "Punjab",
+    "address": "AIT, A 23 Gulshan Block, Allama Iqbal Town Lahore",
+    "phones": []
+   },
+   {
+    "city": "Karachi, Sindh",
+    "address": "Hyderi, Plot D-6/D, North Nazimabad, Karachi",
+    "phones": []
+   },
+   {
+    "city": "Baluchistan",
+    "address": "Quetta, Manan Chowk, M.A. Jinnah Road, Quetta, Baluchistan",
+    "phones": []
+   },
+   {
+    "city": "KPK",
+    "address": "Haripur, Naeem Khan Market Opp: Total Filling Station Haripur",
+    "phones": []
+   },
+   {
+    "city": "AJK",
+    "address": "Kotli, Rawalpindi Road, Near New Distt. Courts Kotli Azad Kashmir",
+    "phones": []
+   }
+  ]
+ },
+ {
+  "region": "Azad Kashmir",
+  "description": "",
+  "branches": [
+   {
+    "city": "Kotli",
+    "address": "Rawalpindi road, near Kechari Moza mandi",
+    "phones": [
+     "0582-6447580"
+    ]
+   },
+   {
+    "city": "Muzaffarabad",
+    "address": "Khewat # 36, Khasra # 739/130, Jalal Abad, Amaan Arcade, Opposite New DHQ Complex, Secretariat Road",
+    "phones": [
+     "05822-442951-2,4,5"
+    ]
+   }
+  ]
+ },
+ {
+  "region": "Balochistan",
+  "description": "",
+  "branches": [
+   {
+    "city": "Quetta",
+    "address": "Shop# 1-26/5G-1330 to 1-26/5H-1331, Manan Chowk, M.A. Jinnah Road, Opposite Meezan Bank Ltd. Quetta",
+    "phones": [
+     "081-2823443"
+    ]
+   }
+  ]
+ },
+ {
+  "region": "Gilgit Baltistan",
+  "description": "",
+  "branches": [
+   {
+    "city": "Gilgit",
+    "address": "Near Public School Chowk, Shahrah-e-Quaid-e-Azam, Zulfiqarabad, Jutial",
+    "phones": []
+   }
+  ]
+ },
+ {
+  "region": "Islamabad Capital Territory",
+  "description": "",
+  "branches": [
+   {
+    "city": "Barakoh",
+    "address": "Khewat # 192 & 213, Khatoni # 364, & 388, Near Usmania Restaurant, Sardar Abbasi Plaza, Muree Road",
+    "phones": [
+     "051-2234105"
+    ]
+   },
+   {
+    "city": "Blue Area",
+    "address": "109, East Jinnah avenue, Main Blue Area, ATM",
+    "phones": [
+     "051-2804197",
+     "051-2804198"
+    ]
+   },
+   {
+    "city": "Rawalpindi",
+    "address": "39-B-1 Satellite Town Opp., RGH Chandani Chowk",
+    "phones": [
+     "051-4906580"
+    ]
+   },
+   {
+    "city": "Rawalpindi",
+    "address": "Plot# G -518-519, Near Bank Alfalah Ltd, Opp MCB Bank Ltd, Main Liaquat Road., ATM",
+    "phones": [
+     "051-4906580"
+    ]
+   }
+  ]
+ },
+ {
+  "region": "KPK",
+  "description": "",
+  "branches": [
+   {
+    "city": "Abbottabad",
+    "address": "Opposite Daewoo Terminal, Mansehra Road, Mandian., ATM",
+    "phones": [
+     "0992-381314"
+    ]
+   },
+   {
+    "city": "Haripur",
+    "address": "Khasra # 1602,1598,1504/12, Naeem Market, Adjacent Total, Filling Station, GT Road",
+    "phones": [
+     "0995-612134"
+    ]
+   },
+   {
+    "city": "Mardan",
+    "address": "Shop # 3,4,5,6,7,8,13 & 14, Block A Shaheen Shopping Mall, Main Qazi Bashir Road PRC Chowk Mardan",
+    "phones": [
+     "0937-875255"
+    ]
+   },
+   {
+    "city": "Mansehra",
+    "address": "Abbottabad Road, Near Habib Bank Limited., ATM",
+    "phones": [
+     "0997-301999",
+     "0997-246514"
+    ]
+   },
+   {
+    "city": "Peshawar",
+    "address": "University Road, Qamar building, Shiraz Inn",
+    "phones": [
+     "091-5850596",
+     "091-5850597"
+    ]
+   }
+  ]
+ },
+ {
+  "region": "Punjab",
+  "description": "",
+  "branches": [
+   {
+    "city": "Ahmedpur East",
+    "address": "Katchery Road, Ahmedpur Sharqia, Arifwala, Khewat # 1872, Khatoni # 1885, Main Muhammadi Road",
+    "phones": [
+     "0457-830885"
+    ]
+   },
+   {
+    "city": "Ahmedpur Sial",
+    "address": "Main Road Muhalla Farooqabad APS",
+    "phones": [
+     "0475-340123"
+    ]
+   },
+   {
+    "city": "Attock",
+    "address": "Shop # C 99, Block C, Burq Road, Lucky Plaza",
+    "phones": [
+     "057-2610900"
+    ]
+   },
+   {
+    "city": "Bahawalnagar",
+    "address": "8- Nishtar Road Jinnah Colony",
+    "phones": [
+     "063-2277045",
+     "063-2019345"
+    ]
+   },
+   {
+    "city": "Bahawalpur",
+    "address": "Property # 90, General Official, Colony Block B, Model Town., ATM",
+    "phones": [
+     "062-2887390"
+    ]
+   },
+   {
+    "city": "Bhakkar",
+    "address": "Al-Qaim Plaza, Jhang, Road, Chisti Chowk near, Mughal machinery Store",
+    "phones": [
+     "0453-514800"
+    ]
+   },
+   {
+    "city": "Bhalwal",
+    "address": "Ajnala road, near Nadra office",
+    "phones": [
+     "048-3021969",
+     "048-6644580"
+    ]
+   },
+   {
+    "city": "Burewala",
+    "address": "Farooq Plaza, Main Arif Bazar",
+    "phones": [
+     "067-3355444",
+     "067-3001372"
+    ]
+   },
+   {
+    "city": "Chakwal",
+    "address": "Near Sui Gas Office, Opposite Govt. Degree College, Main Pindi Road",
+    "phones": [
+     "0543-551344"
+    ]
+   },
+   {
+    "city": "Chiniot",
+    "address": "Near Zarai Taraqiati Bank Limited, Faisalabad road",
+    "phones": [
+     "047-6330010"
+    ]
+   },
+   {
+    "city": "Chishtian",
+    "address": "Khewat # 583/585, Khatoni # 583, Khowaja Qibla Aalam road, near Qomi Bachat Road",
+    "phones": [
+     "063-2507009"
+    ]
+   },
+   {
+    "city": "Daska",
+    "address": "4/90, College Road, Near Noor Masjid",
+    "phones": [
+     "052-6616411"
+    ]
+   },
+   {
+    "city": "Depalpur",
+    "address": "Khewat # 274, Khatoni # 277, Pakpattan Road",
+    "phones": [
+     "044-4540074"
+    ]
+   },
+   {
+    "city": "Depalpur – Haveli Lakha",
+    "address": "Khewat # 237, Khatoni # 253, Khasra # 93/2/2, Pak Pattan Road",
+    "phones": [
+     "044-4775505"
+    ]
+   },
+   {
+    "city": "Depalpur – Hujra Shah Muqeem",
+    "address": "Khewat # 1440/1404, Khatoni # 2193, Near NBP, Circular Road",
+    "phones": [
+     "044-4860303"
+    ]
+   },
+   {
+    "city": "Dera Ghazi Khan",
+    "address": "Block A, Railway Road, near Katcheyri chowk",
+    "phones": [
+     "064-2466245"
+    ]
+   },
+   {
+    "city": "Dunyapur",
+    "address": "Khewat # 41/2660, Khasra # 14-15-5, Railway Road near Post Office",
+    "phones": [
+     "0608-304889"
+    ]
+   },
+   {
+    "city": "Faisalabad – Abdullah Pur",
+    "address": "Usman Manzil, Near Alfajar, Marriage Hall, Jhumra Road., ATM",
+    "phones": [
+     "041-8720291",
+     "041-8720292"
+    ]
+   },
+   {
+    "city": "Faisalabad – Allama Iqbal Road",
+    "address": "Khasra # 183/2, Khewat # 2120, Khatoni # 2123, Allama Iqbal Road, Opposite Government College University., ATM",
+    "phones": [
+     "041-2603320"
+    ]
+   },
+   {
+    "city": "Fort Abbas",
+    "address": "Khewat # 411/409, Khatoni # 439, Kachi Mandi, Allama Iqbal Road",
+    "phones": [
+     "063-2510405"
+    ]
+   },
+   {
+    "city": "Gojra",
+    "address": "Main Jhang Road, near Saifullah House",
+    "phones": [
+     "046-3515003"
+    ]
+   },
+   {
+    "city": "Gujar Khan",
+    "address": "Trunk Bazar, Near Qadria Govt School, Tehsil Road",
+    "phones": [
+     "051-3512172"
+    ]
+   },
+   {
+    "city": "Gujranwala (Closed)",
+    "address": "Shop # 34 A,B,C & 45EX, Nadra Office, Trust Plaza GT Road",
+    "phones": [
+     "055-3730422"
+    ]
+   },
+   {
+    "city": "Gujranwala",
+    "address": "SHOP NO 9&10, Main Shiekhupura Road, Mian Sansi , Khiali",
+    "phones": []
+   },
+   {
+    "city": "Gujrat",
+    "address": "Faisal Gate, Circular Road, Near Mithai Mehal., ATM",
+    "phones": [
+     "053-3523467",
+     "053-3515285"
+    ]
+   },
+   {
+    "city": "Gujrat – Jalalpur Jattan",
+    "address": "P.T.I. # BVII/65/RH, Adjacent, Circular Road, Near Chandni, Chowk to Adda Tam Tam",
+    "phones": [
+     "053-3592866"
+    ]
+   },
+   {
+    "city": "Gujrat – Lalamusa",
+    "address": "New Telenor Franchise, GT Road, Lalamusa",
+    "phones": [
+     "053-7512700"
+    ]
+   },
+   {
+    "city": "Hafizabad",
+    "address": "Property # 3S-4, Raja Chowk Circular Road",
+    "phones": [
+     "0547-524424"
+    ]
+   },
+   {
+    "city": "Haroonabad",
+    "address": "H. # 87, Madina Colony",
+    "phones": [
+     "063-2252695"
+    ]
+   },
+   {
+    "city": "Hasilpur",
+    "address": "Khata # 32/34, Khatoni # 148, Baldia Road Near Imam Bargah., ATM",
+    "phones": [
+     "062-2441346",
+     "062-2441347"
+    ]
+   },
+   {
+    "city": "Hassan Abdal",
+    "address": "Property Khiot # 1751, Khata # 2610, Khasra # 1491, Doctor Afzal Road., Adda Larian., ATM",
+    "phones": [
+     "057-2522555"
+    ]
+   },
+   {
+    "city": "Head Office I – Lahore",
+    "address": "30 – A, XX Block, Khayaban – e – Iqbal road, DHA",
+    "phones": [
+     "042-37132668"
+    ]
+   },
+   {
+    "city": "Head Office II – Lahore",
+    "address": "387-E, Johar Town, Near Allah Hoo Chowk, ATM",
+    "phones": [
+     "+92-42-35222852-3"
+    ]
+   },
+   {
+    "city": "Jalalpur Pirwala",
+    "address": "Khewat # 22/22, Khatoni # 46, Old Virtual University Campus, Shujaabad Road, Deewan Market",
+    "phones": [
+     "061-4212013"
+    ]
+   },
+   {
+    "city": "Jamal Din Wali",
+    "address": "Khewat # 6/6, Khatooni # 26 to 70, Sheller Market, Jamal Din Wali Tehsil Sadiqabad",
+    "phones": []
+   },
+   {
+    "city": "Jauharabad",
+    "address": "Block No. 2, Market committee chowk, Near Bank Al Falah",
+    "phones": [
+     "0454-723470"
+    ]
+   },
+   {
+    "city": "Jehanian",
+    "address": "Plot # 520 & 522, Near Jehanian bypass Road",
+    "phones": [
+     "065-2211003"
+    ]
+   },
+   {
+    "city": "Jhang",
+    "address": "Yousaf Shah Road, Near Kachehry Chowk, Jhang., ATM",
+    "phones": [
+     "047-7621231"
+    ]
+   },
+   {
+    "city": "Jhelum",
+    "address": "M.M # 3, Jada Road",
+    "phones": [
+     "0544-234413"
+    ]
+   },
+   {
+    "city": "Kahror Pakka",
+    "address": "Khewat # 27/1041, Khasra # 52-1, Near Admore Petrol Pump, Dunya Pur Road., ATM",
+    "phones": [
+     "0608-340790"
+    ]
+   },
+   {
+    "city": "Kamalia",
+    "address": "Plot # 4169 to 4191, Mohalla, Mahtianwala, Near NBP",
+    "phones": [
+     "046-3413052"
+    ]
+   },
+   {
+    "city": "Kamoke",
+    "address": "GT Road, Androon, Hadood Kamaity",
+    "phones": [
+     "055-6810160",
+     "066-6813266"
+    ]
+   },
+   {
+    "city": "Kasur – Illahbad",
+    "address": "Khewat # 246, Khatoni # 450, Kasur Road",
+    "phones": [
+     "049-4752250"
+    ]
+   },
+   {
+    "city": "Khanewal",
+    "address": "Block # 8, Opposite GPO., ATM",
+    "phones": [
+     "065-2552877",
+     "065-2006601"
+    ]
+   },
+   {
+    "city": "Khanpur",
+    "address": "Plot # 237, A Block, Ward Area Development Society., ATM",
+    "phones": [
+     "068-5571090"
+    ]
+   },
+   {
+    "city": "Khan Pur Tamewale",
+    "address": "Opposite HBL Bank Ltd. Near Askari-1 Petrol Pump, Hasilpur Road, Tehsil Khairpur Tamewale, District Bahawalpur",
+    "phones": []
+   },
+   {
+    "city": "Kot Addu",
+    "address": "G. T. Road, Dist Muzaffargarh",
+    "phones": [
+     "0662-239070",
+     "0662-239071"
+    ]
+   },
+   {
+    "city": "Lahore – Allama Iqbal Town",
+    "address": "Plot # 6, PAK Block, Allama Iqbal Town",
+    "phones": []
+   },
+   {
+    "city": "Lahore – College Road",
+    "address": "27-17-B, Near Aslam Chowk, College Road, Township., ATM",
+    "phones": [
+     "042-36185516",
+     "042-35222608"
+    ]
+   },
+   {
+    "city": "Lahore – DHA",
+    "address": "49, XX Block, Phase III, Defence Housing Authority, ATM",
+    "phones": []
+   },
+   {
+    "city": "Lahore – Ferozpur road (Closed)",
+    "address": "343 – Main Ferozpur road, near Bhabra Market stop",
+    "phones": [
+     "042-35881059"
+    ]
+   },
+   {
+    "city": "Lahore – Ichra",
+    "address": "5 Ferozepur Road, Mazang Chongi, ATM",
+    "phones": [
+     "042-37538237"
+    ]
+   },
+   {
+    "city": "Lahore – Manga Mandi",
+    "address": "Near Govt. High school (boys), Multan Road",
+    "phones": [
+     "042-35385044"
+    ]
+   },
+   {
+    "city": "Lahore – Mughalpura",
+    "address": "118 Main GT Road, Opposite UET Gate # 06, Mian Park",
+    "phones": [
+     "042-36866669"
+    ]
+   },
+   {
+    "city": "Lahore – Multan Road (Closed)",
+    "address": "43-44 A, Main Boulevard, Gulshan-e-Ravi, near, Akber-e-Azam Shadi Hall",
+    "phones": [
+     "042-37410834",
+     "042-36136048"
+    ]
+   },
+   {
+    "city": "Lahore – New Garden Town",
+    "address": "23-A Ali Block, New Garden Town, Lahore, ATM",
+    "phones": [
+     "042-37881972-3"
+    ]
+   },
+   {
+    "city": "Lahore – Shahdara (Closed)",
+    "address": "Near Saad Park, Main, Ravi Road Toll Plaza",
+    "phones": [
+     "042-37940488"
+    ]
+   },
+   {
+    "city": "Layyah",
+    "address": "Liaqatpur, Plot # 3/C-187 Bank Road",
+    "phones": [
+     "068-5693393"
+    ]
+   },
+   {
+    "city": "Liaqatpur – Khan Bela",
+    "address": "Khewat # 107/106, Khatoni # 382, Opposite Zarai Bank",
+    "phones": [
+     "068-5570114"
+    ]
+   },
+   {
+    "city": "Lodhran",
+    "address": "Khewat # 541/1, Khatoni # 1125, Ground Floor, Saad Plaza, Jalalpur Morr, Faizabad., ATM",
+    "phones": [
+     "0608-362210"
+    ]
+   },
+   {
+    "city": "Malakwal",
+    "address": "Badshah Pur road, Opp National Bank",
+    "phones": [
+     "0546-583144"
+    ]
+   },
+   {
+    "city": "Mandi Bahauddin",
+    "address": "Shayan Plaza Ward #5, Dewan chowk",
+    "phones": [
+     "0546-521662"
+    ]
+   },
+   {
+    "city": "Mankera",
+    "address": "Mushtaq Market, Near UBL Bank, Jhang to Bhakar Road",
+    "phones": []
+   },
+   {
+    "city": "Mian Channu",
+    "address": "Shaheed Road, Block-13, Near Mobilink Franchise",
+    "phones": [
+     "065-2663613"
+    ]
+   },
+   {
+    "city": "Mianwali",
+    "address": "Govt High School Road., Near Chen One",
+    "phones": []
+   },
+   {
+    "city": "Minchanabad",
+    "address": "Corner Plot # 01, Sadiqia Abbasia, Street, Circular Road",
+    "phones": [
+     "063-2750015"
+    ]
+   },
+   {
+    "city": "Multan – Abdali Road",
+    "address": "Khan Center, Main Abdali Road., ATM",
+    "phones": [
+     "061-4580570"
+    ]
+   },
+   {
+    "city": "Multan – Vehari Road",
+    "address": "111-114, Sheerin Commercial Center, Vehari Road. ATM",
+    "phones": [
+     "061-6244966"
+    ]
+   },
+   {
+    "city": "Muzaffargarh",
+    "address": "Khewat # 772, Muhalla Aminabad, Opposite New General Bus Stand, Shah Jamal Road",
+    "phones": [
+     "066-2422966",
+     "0662-2015631"
+    ]
+   },
+   {
+    "city": "Nankana Sahib",
+    "address": "Khewat # 56, Khatoni # 209, BII IS-2 Malji Road",
+    "phones": [
+     "056-2876141"
+    ]
+   },
+   {
+    "city": "Narowal",
+    "address": "Circular Road, Siddique Pura",
+    "phones": [
+     "0542-413476"
+    ]
+   },
+   {
+    "city": "Okara",
+    "address": "Link M.A Jinnah Road, Ravi Road",
+    "phones": [
+     "044-2522300"
+    ]
+   },
+   {
+    "city": "Okara Cantt",
+    "address": "Plot # D-61, Liaqat road., ATM",
+    "phones": [
+     "0333-4925852"
+    ]
+   },
+   {
+    "city": "Piplan",
+    "address": "Ghala Mandi",
+    "phones": [
+     "045-9201198-97"
+    ]
+   },
+   {
+    "city": "Pakpattan",
+    "address": "Plot # 1670-A, College Road., ATM",
+    "phones": [
+     "045-7419634",
+     "045-7372800"
+    ]
+   },
+   {
+    "city": "Pasrur",
+    "address": "Khata # 344, Khatoni # 633, Class Wala, Road, near Satrah Chowk, Opposite, Hafeez Goods & Bunyad School System",
+    "phones": [
+     "052-6440122"
+    ]
+   },
+   {
+    "city": "Phalia",
+    "address": "Khewat # 161, Khatoni # 440, Khasra # 292, Near Masjid, Gulzar-e-Madina, Hilyan Road",
+    "phones": [
+     "0546-566136"
+    ]
+   },
+   {
+    "city": "Pindi Bhattian",
+    "address": "Opposite Siyal Tent Services, Pully Siyal Tent Wali, Hafizabad Road",
+    "phones": [
+     "0547-531356"
+    ]
+   },
+   {
+    "city": "Quaidabad",
+    "address": "Main Adda, near UBL",
+    "phones": [
+     "0454-880027"
+    ]
+   },
+   {
+    "city": "Rahim Yar Khan",
+    "address": "26 Model Town, ATM",
+    "phones": [
+     "068-5879666"
+    ]
+   },
+   {
+    "city": "Rajanpur",
+    "address": "Gulshan-e-Iqbal colony mian Indus highway",
+    "phones": []
+   },
+   {
+    "city": "Saddiqabad",
+    "address": "Property # 243, Water, Supply Road",
+    "phones": [
+     "068-5800261"
+    ]
+   },
+   {
+    "city": "Sahiwal",
+    "address": "Liaqat road, opposite Chaudhry broast",
+    "phones": [
+     "040-4461470",
+     "040-4009093"
+    ]
+   },
+   {
+    "city": "Sambrial",
+    "address": "Khewat # 86, Khatooni # 105, Opposite Makki Masjid",
+    "phones": [
+     "052-6523614",
+     "052-6523535"
+    ]
+   },
+   {
+    "city": "Samundri",
+    "address": "Circular road, District Faisalabad",
+    "phones": [
+     "041-3420011"
+    ]
+   },
+   {
+    "city": "Sargodha",
+    "address": "Azad Road, Block No 15",
+    "phones": [
+     "048-3700797",
+     "048-3005639"
+    ]
+   },
+   {
+    "city": "Sargodha – Sahiwal",
+    "address": "Main Jhang Road, Near Shell Petrol Pump",
+    "phones": [
+     "048-6786233"
+    ]
+   },
+   {
+    "city": "Sharaqpur",
+    "address": "Khewat # 136, Khatoni # 329, Near Muslim Pura Aara, Main Lahore-Jaranwala Road",
+    "phones": []
+   },
+   {
+    "city": "Sheikhupura",
+    "address": "Faisalabad Road Batti Chowk",
+    "phones": []
+   },
+   {
+    "city": "Shorkot",
+    "address": "Khata # 1875, Mohalla Abbas Pura, Nawan Shehar, Jhang Road",
+    "phones": [
+     "047-5310104"
+    ]
+   },
+   {
+    "city": "Shujabad",
+    "address": "Khewat # 315, Jalal Pur Road, Near KB stand",
+    "phones": [
+     "061-4029690"
+    ]
+   },
+   {
+    "city": "Sialkot",
+    "address": "City Tower, Shahab Pura., ATM",
+    "phones": [
+     "052-3256462",
+     "052-3256452"
+    ]
+   },
+   {
+    "city": "Sialkot",
+    "address": "Sajjad Plaza, Agha Kamal road, Saddar bazaar,Sialkot Cantt",
+    "phones": []
+   },
+   {
+    "city": "Syedwala",
+    "address": "Khewat # 129, Khatoni # 232/22, Khasra # 53, Muraba # 06, Kila # 9/2, Jaranwala Road",
+    "phones": [
+     "056-2722574"
+    ]
+   },
+   {
+    "city": "Talagang",
+    "address": "Plot # Kh-3215/203, Nawab Center, Chowk Saddiqabad, Mianwali Road",
+    "phones": [
+     "0543-413850"
+    ]
+   },
+   {
+    "city": "Toba Tek Singh",
+    "address": "Khewat # 337, Opposite Qaim Center, Shorkot Road baron Lakkar Mandi",
+    "phones": [
+     "046-2511752"
+    ]
+   },
+   {
+    "city": "Vehari",
+    "address": "Khewat # 104, Khatoni # 104, 52 – A – Block",
+    "phones": [
+     "067-3025385"
+    ]
+   },
+   {
+    "city": "Wazirabad",
+    "address": "Opposite Fire Brigade, and Rescue 15, GT Road., ATM",
+    "phones": [
+     "055-6601262"
+    ]
+   },
+   {
+    "city": "Yazman",
+    "address": "Bahawalpur road",
+    "phones": [
+     "0622-702816"
+    ]
+   },
+   {
+    "city": "Uch Sharif",
+    "address": "Ahmedpur East Road opposite MCB Bank UCH Sharif Tehsil Ahmedpur East Dist. BWP",
+    "phones": [
+     "0337-1426140"
+    ]
+   }
+  ]
+ },
+ {
+  "region": "Sindh",
+  "description": "",
+  "branches": [
+   {
+    "city": "Ghotki",
+    "address": "Plot # C/S 890/2, Ward # B, S.K Plaza, Devri Sahab Road",
+    "phones": [
+     "0723-682227",
+     "0723-682228"
+    ]
+   },
+   {
+    "city": "Hyderabad",
+    "address": "G916, Gurunagar, Opp SK, Rahim Girls High school, Near New Cloth Market",
+    "phones": [
+     "022-2631180",
+     "022-2926963"
+    ]
+   },
+   {
+    "city": "Karachi – Clifton",
+    "address": "Plot # BC- 13, Block # 9., ATM",
+    "phones": [
+     "021-35292907",
+     "021-35292908"
+    ]
+   },
+   {
+    "city": "Karachi – North Nazimabad",
+    "address": "Plot # D-6/B, North Nazimabad",
+    "phones": [
+     "021-36701144"
+    ]
+   },
+   {
+    "city": "Khairpur",
+    "address": "Plot # A-1264-A, Shah, Lateef Colony, Near Khaki, Shah Pul Station Road",
+    "phones": [
+     "0243-680966"
+    ]
+   },
+   {
+    "city": "Nawabshah",
+    "address": "Main Sakrand Road, near National Bank of Pakistan",
+    "phones": [
+     "0244-366795"
+    ]
+   },
+   {
+    "city": "Pano Aqil",
+    "address": "Property Jaryan # 10060, Eid Gah, Chowk, Cinema Road, Cantt Road",
+    "phones": [
+     "071-5690424"
+    ]
+   },
+   {
+    "city": "Liaquatpur",
+    "address": "Plot No. 3/C",
+    "phones": [
+     "068-5693393-1,87"
+    ]
+   },
+   {
+    "city": "Larkana",
+    "address": "City Survey # 707 & 708, Ward “A” Opposite First Women Bank, Bank Square, Bander Road",
+    "phones": []
+   },
+   {
+    "city": "Mirpurkhas",
+    "address": "Mahula khari quarter, railway station chowk, beside Al Habib Bank station road",
+    "phones": []
+   },
+   {
+    "city": "Sukkur",
+    "address": "Property # 631/ 5-A/IB-3, Minara Road, Near Dolphin, Bakery Chowk",
+    "phones": [
+     "071-5624470-1"
+    ]
+   },
+   {
+    "city": "Umerkot",
+    "address": "Ward “A” CS No: 20/1/1, Lashari Market, Near Kumar Medical Store, Umer Kot Town, Taluka and Sub-District Umerkot",
+    "phones": []
+   },
+   {
+    "city": "Tando Allahyar",
+    "address": "Plot # 07, near Wapda Grid station, Main Hyderabad Road",
+    "phones": [
+     "022-892458"
+    ]
+   }
+  ]
+ }
+]

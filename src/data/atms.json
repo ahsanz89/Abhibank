@@ -1,0 +1,800 @@
+[
+ {
+  "city": "Pano Aqil",
+  "id": "090507",
+  "address": "Cantt Road Pano Aqil",
+  "type": "Onsite",
+  "status": "Operational"
+ },
+ {
+  "city": "Umer Kot",
+  "id": "090510",
+  "address": "Lashari Market Umer Kot",
+  "type": "Onsite",
+  "status": "Operational"
+ },
+ {
+  "city": "Lahore",
+  "id": "090209",
+  "address": "27-17-B college road Township, Lahore",
+  "type": "Onsite",
+  "status": "Operational"
+ },
+ {
+  "city": "Mianwali",
+  "id": "090316",
+  "address": "Data Khail Road Mianwali",
+  "type": "Onsite",
+  "status": "Operational"
+ },
+ {
+  "city": "Sahiwal",
+  "id": "099038",
+  "address": "Main Jhang Road Sahiwal",
+  "type": "Onsite",
+  "status": "Operational"
+ },
+ {
+  "city": "Samundri",
+  "id": "099027",
+  "address": "Circular Road Samundari",
+  "type": "Onsite",
+  "status": "Operational"
+ },
+ {
+  "city": "Okara",
+  "id": "090313",
+  "address": "Ravi Road Okara",
+  "type": "Onsite",
+  "status": "Operational"
+ },
+ {
+  "city": "Faisalabad",
+  "id": "090303",
+  "address": "Jhumra Road,Abdullahpur,Faisalabad.",
+  "type": "Onsite",
+  "status": "Operational"
+ },
+ {
+  "city": "Kotli",
+  "id": "090802",
+  "address": "Rawalpindi Road Kotli",
+  "type": "Onsite",
+  "status": "Operational"
+ },
+ {
+  "city": "Mianchanabad",
+  "id": "099035",
+  "address": "Circular Road Mianchanabad",
+  "type": "Onsite",
+  "status": "Operational"
+ },
+ {
+  "city": "Faisalabad",
+  "id": "190303",
+  "address": "Shams Textile Nankana",
+  "type": "Offsite",
+  "status": "Operational"
+ },
+ {
+  "city": "Rawalpindi",
+  "id": "090412",
+  "address": "Sardar Abbasi Plaza, Murree Road, Bara Kahu",
+  "type": "Onsite",
+  "status": "Operational"
+ },
+ {
+  "city": "Deepalpur",
+  "id": "099033",
+  "address": "Pakpattan Road Deepalpur",
+  "type": "Onsite",
+  "status": "Operational"
+ },
+ {
+  "city": "Sukkhar",
+  "id": "090506",
+  "address": "Minara Road Sukkhar",
+  "type": "Onsite",
+  "status": "Operational"
+ },
+ {
+  "city": "Haroonabad",
+  "id": "099019",
+  "address": "Madina Colony Haroonabad",
+  "type": "Onsite",
+  "status": "Operational"
+ },
+ {
+  "city": "Kamoki",
+  "id": "099042",
+  "address": "Gt Road Kamoki",
+  "type": "Onsite",
+  "status": "Operational"
+ },
+ {
+  "city": "Sheikhupura",
+  "id": "090213",
+  "address": "Lahore Sargodha Road Near, Sheikhupura",
+  "type": "Onsite",
+  "status": "Operational"
+ },
+ {
+  "city": "Bhalwal",
+  "id": "099015",
+  "address": "Liaqat Shaheed Road Bhalwal",
+  "type": "Onsite",
+  "status": "Operational"
+ },
+ {
+  "city": "Sahiwal",
+  "id": "090301",
+  "address": "375, Main Liaquat Road, Sahiwal",
+  "type": "Onsite",
+  "status": "Operational"
+ },
+ {
+  "city": "Shorkot",
+  "id": "090315",
+  "address": "Jhang Road Shorkot",
+  "type": "Onsite",
+  "status": "Operational"
+ },
+ {
+  "city": "Phaliya",
+  "id": "090415",
+  "address": "Hellan Road Phaliya",
+  "type": "Onsite",
+  "status": "Operational"
+ },
+ {
+  "city": "Jhang",
+  "id": "030500",
+  "address": "Session Road, Jhang Sadar, Jhang",
+  "type": "Onsite",
+  "status": "Operational"
+ },
+ {
+  "city": "Vehari",
+  "id": "099011",
+  "address": "Main Club Road Vehari",
+  "type": "Onsite",
+  "status": "Operational"
+ },
+ {
+  "city": "Dera Ghazi Khan",
+  "id": "090616",
+  "address": "Dera Ghazi Khan",
+  "type": "Onsite",
+  "status": "Operational"
+ },
+ {
+  "city": "Lahore",
+  "id": "199007",
+  "address": "Suraj Cotton Mills Offsite LHR",
+  "type": "Offsite",
+  "status": "Operational"
+ },
+ {
+  "city": "Lahore",
+  "id": "099009",
+  "address": "Daroghawala Lahore",
+  "type": "Onsite",
+  "status": "Operational"
+ },
+ {
+  "city": "Mansehra",
+  "id": "040800",
+  "address": "Mohallah Channi, Abbottabad Road, Mansehra",
+  "type": "Onsite",
+  "status": "Operational"
+ },
+ {
+  "city": "Lodhran",
+  "id": "090670",
+  "address": "Saad Plaza, Main Bahawalpur Road ,Lodhran",
+  "type": "Onsite",
+  "status": "Operational"
+ },
+ {
+  "city": "Ajk",
+  "id": "090803",
+  "address": "Opposite New DHQ Complex, Secretariat Road, Muzaffarabad, Azad & Jammu Kashmir",
+  "type": "Onsite",
+  "status": "Operational"
+ },
+ {
+  "city": "Jilalpur Jattan",
+  "id": "099040",
+  "address": "Chandni Chk Jalalpur Jattan",
+  "type": "Onsite",
+  "status": "Operational"
+ },
+ {
+  "city": "Jouharabad",
+  "id": "099004",
+  "address": "Jouharabad Khushab",
+  "type": "Onsite",
+  "status": "Operational"
+ },
+ {
+  "city": "Karachi",
+  "id": "199030",
+  "address": "Suraj Cotton Mill Nooriyabad(TAY) Karachi",
+  "type": "Offsite",
+  "status": "Operational"
+ },
+ {
+  "city": "Haripur",
+  "id": "090406",
+  "address": "Main Gt Road Haripur",
+  "type": "Onsite",
+  "status": "Operational"
+ },
+ {
+  "city": "Karachi",
+  "id": "090501",
+  "address": "13BC, KDA #05, block 9, Clifton Karachi",
+  "type": "Onsite",
+  "status": "Operational"
+ },
+ {
+  "city": "Jalalpurpirwala",
+  "id": "099034",
+  "address": "Shujaabad Road Jalalpur pirwala",
+  "type": "Onsite",
+  "status": "Operational"
+ },
+ {
+  "city": "Layyah",
+  "id": "090620",
+  "address": "Chobara Roadlayyah",
+  "type": "Onsite",
+  "status": "Operational"
+ },
+ {
+  "city": "Rawalpindi",
+  "id": "090404",
+  "address": "39-B-1, Satellite Town, Murree Road (Chandni Chowk). Rawalpindi",
+  "type": "Onsite",
+  "status": "Operational"
+ },
+ {
+  "city": "Ahmedpursial",
+  "id": "090319",
+  "address": "Main Road Ahmed Pur Sial",
+  "type": "Onsite",
+  "status": "Operational"
+ },
+ {
+  "city": "Pakpattan",
+  "id": "090312",
+  "address": "College Road, Opposite Jamia Masjid Al Qudas, Pakpattan",
+  "type": "Onsite",
+  "status": "Operational"
+ },
+ {
+  "city": "Gujrat",
+  "id": "070200",
+  "address": "Circular Road Gujrat",
+  "type": "Onsite",
+  "status": "Operational"
+ },
+ {
+  "city": "Sargodha",
+  "id": "090304",
+  "address": "SGD – Azad Road – Sargodha",
+  "type": "Onsite",
+  "status": "Operational"
+ },
+ {
+  "city": "Larkana",
+  "id": "090511",
+  "address": "Bander Road Larkana Branch",
+  "type": "Onsite",
+  "status": "Operational"
+ },
+ {
+  "city": "Gilgit",
+  "id": "090901",
+  "address": "Near Public School Chowk, Shahrah-e-Quaid-e-Azam, Zulfiqarabad Block A, jutial, Distt. Gilgit",
+  "type": "Onsite",
+  "status": "Operational"
+ },
+ {
+  "city": "Chiniot",
+  "id": "090311",
+  "address": "Sharae Quaid E Azam Chiniot",
+  "type": "Onsite",
+  "status": "Operational"
+ },
+ {
+  "city": "Hassanabdal",
+  "id": "099026",
+  "address": "Adda Lariyan Hassanabdal",
+  "type": "Onsite",
+  "status": "Operational"
+ },
+ {
+  "city": "Bahwalpur",
+  "id": "090608",
+  "address": "Near Kalma Chowk Model Town ,Bahwalpur",
+  "type": "Onsite",
+  "status": "Operational"
+ },
+ {
+  "city": "Abbottabad",
+  "id": "090410",
+  "address": "Mandian Bazar Abbottabad",
+  "type": "Onsite",
+  "status": "Operational"
+ },
+ {
+  "city": "Haveli Lakha",
+  "id": "099003",
+  "address": "Pak Pattan Road Haveli Lakha",
+  "type": "Onsite",
+  "status": "Operational"
+ },
+ {
+  "city": "Jehlum",
+  "id": "090413",
+  "address": "Old Gt Road Jehlum",
+  "type": "Onsite",
+  "status": "Operational"
+ },
+ {
+  "city": "Chishtian",
+  "id": "099020",
+  "address": "Iqbal Alam Road Chishtian",
+  "type": "Onsite",
+  "status": "Operational"
+ },
+ {
+  "city": "Narowal",
+  "id": "090218",
+  "address": "Siddique Pura Narowal",
+  "type": "Onsite",
+  "status": "Operational"
+ },
+ {
+  "city": "Islamabad",
+  "id": "199026",
+  "address": "Multi Residencia & Orchards Islamabad",
+  "type": "Offsite",
+  "status": "Operational"
+ },
+ {
+  "city": "Dunyapur",
+  "id": "099022",
+  "address": "Railway Road DunyaPur",
+  "type": "Onsite",
+  "status": "Operational"
+ },
+ {
+  "city": "Piplan",
+  "id": "090318",
+  "address": "Ghalla Mandi Piplan",
+  "type": "Onsite",
+  "status": "Operational"
+ },
+ {
+  "city": "Syedwala",
+  "id": "090219",
+  "address": "Jaranwala Road Syedwala",
+  "type": "Onsite",
+  "status": "Operational"
+ },
+ {
+  "city": "Bahawalnagar",
+  "id": "090605",
+  "address": "Plot # 08, Nishtar Road, Jinnah Colony, Bahawalnagar",
+  "type": "Onsite",
+  "status": "Operational"
+ },
+ {
+  "city": "Quetta",
+  "id": "090513",
+  "address": "Manan Chowk, M.A. Jinnah Road, Opposite Meezan Bank Ltd. Quetta, Baluchistan",
+  "type": "Onsite",
+  "status": "Operational"
+ },
+ {
+  "city": "Hafizabad",
+  "id": "099024",
+  "address": "Raja Chowk Hafizabad",
+  "type": "Onsite",
+  "status": "Operational"
+ },
+ {
+  "city": "Islamabad",
+  "id": "090420",
+  "address": "D12 Markaz Head Office Islamabad",
+  "type": "Onsite",
+  "status": "Operational"
+ },
+ {
+  "city": "Kotaddu",
+  "id": "090618",
+  "address": "Gt Road Kot Addu",
+  "type": "Onsite",
+  "status": "Operational"
+ },
+ {
+  "city": "Multan",
+  "id": "090602",
+  "address": "Central Jail Morr Multan",
+  "type": "Onsite",
+  "status": "Operational"
+ },
+ {
+  "city": "Manga Mandi",
+  "id": "099006",
+  "address": "Near Govt. High school (boys), Multan Road Manga Mandi",
+  "type": "Onsite",
+  "status": "Operational"
+ },
+ {
+  "city": "Gujar Khan",
+  "id": "090416",
+  "address": "Umer farooq plaza Main GT road Gujar Khan",
+  "type": "Onsite",
+  "status": "Operational"
+ },
+ {
+  "city": "Lalamusa",
+  "id": "099014",
+  "address": "Gt Road Lalamusa",
+  "type": "Onsite",
+  "status": "Operational"
+ },
+ {
+  "city": "Arifwala",
+  "id": "099012",
+  "address": "Muhammadi Road Arifwala",
+  "type": "Onsite",
+  "status": "Operational"
+ },
+ {
+  "city": "Malakwal",
+  "id": "090708",
+  "address": "Badshahpur Road Malakwal",
+  "type": "Onsite",
+  "status": "Operational"
+ },
+ {
+  "city": "Mardan",
+  "id": "090419",
+  "address": "Main Qazi Bashir Road Mardan",
+  "type": "Onsite",
+  "status": "Operational"
+ },
+ {
+  "city": "Fortabbas",
+  "id": "090609",
+  "address": "Allama Iqbal Road Fort Abbas",
+  "type": "Onsite",
+  "status": "Operational"
+ },
+ {
+  "city": "Mandi Bahauddin",
+  "id": "090411",
+  "address": "Shayan Plaza Mandi Bahauddin",
+  "type": "Onsite",
+  "status": "Operational"
+ },
+ {
+  "city": "Nankana",
+  "id": "090217",
+  "address": "Malji Road Nankana",
+  "type": "Onsite",
+  "status": "Operational"
+ },
+ {
+  "city": "Peshawar",
+  "id": "090418",
+  "address": "University Road Gull Gee Plaza, Peshawar",
+  "type": "Onsite",
+  "status": "Operational"
+ },
+ {
+  "city": "Tando Allah Yar",
+  "id": "099030",
+  "address": "Hyd. RoadTando Allah Yar (9030)",
+  "type": "Onsite",
+  "status": "Operational"
+ },
+ {
+  "city": "Nawabshah",
+  "id": "090504",
+  "address": "Main Sakrand Road Nawabshah",
+  "type": "Onsite",
+  "status": "Operational"
+ },
+ {
+  "city": "Rajan Pur",
+  "id": "090622",
+  "address": "Gulshan e Iqbal Colony Rajanpur",
+  "type": "Onsite",
+  "status": "Operational"
+ },
+ {
+  "city": "Jahanian",
+  "id": "099041",
+  "address": "Bypass Road Jahanian",
+  "type": "Onsite",
+  "status": "Operational"
+ },
+ {
+  "city": "Quaidabad",
+  "id": "090317",
+  "address": "Khushab Road Mandi Quaidabad",
+  "type": "Onsite",
+  "status": "Operational"
+ },
+ {
+  "city": "Wazirbad",
+  "id": "070100",
+  "address": "Opposite Fire Brigade & Rescue 15, GT Road, Wazirbad",
+  "type": "Onsite",
+  "status": "Operational"
+ },
+ {
+  "city": "Sadiqabad",
+  "id": "099025",
+  "address": "Water Supply Road Sadiqabad",
+  "type": "Onsite",
+  "status": "Operational"
+ },
+ {
+  "city": "Lahore",
+  "id": "090223",
+  "address": "49/A, XX Phase 3c, DHA, Lahore, Pakistan",
+  "type": "Onsite",
+  "status": "Operational"
+ },
+ {
+  "city": "Phool Nagar",
+  "id": "199006",
+  "address": "Phool Nagar Offsite",
+  "type": "Offsite",
+  "status": "Operational"
+ },
+ {
+  "city": "Khanewal",
+  "id": "060300",
+  "address": "Block No 8, Opposite GPO,Khanewal",
+  "type": "Onsite",
+  "status": "Operational"
+ },
+ {
+  "city": "Pasroor",
+  "id": "099032",
+  "address": "Class Wala Road Pasroor",
+  "type": "Onsite",
+  "status": "Operational"
+ },
+ {
+  "city": "Shujaabad",
+  "id": "099016",
+  "address": "Talkot Shujaabad",
+  "type": "Onsite",
+  "status": "Operational"
+ },
+ {
+  "city": "Sialkot",
+  "id": "090703",
+  "address": "Shahab Pura Road, Near MCB Shahabpura, City Tower.Sialkot",
+  "type": "Onsite",
+  "status": "Operational"
+ },
+ {
+  "city": "Kharorpacca",
+  "id": "099028",
+  "address": "Duniyapur Road Near ADMORE petrol pump ,Kharorpacca",
+  "type": "Onsite",
+  "status": "Operational"
+ },
+ {
+  "city": "Ahmed Pur East",
+  "id": "090615",
+  "address": "Ahmed Pur East",
+  "type": "Onsite",
+  "status": "Operational"
+ },
+ {
+  "city": "Gujranwala",
+  "id": "090710",
+  "address": "shakhupura Road gujranwala",
+  "type": "Onsite",
+  "status": "Operational"
+ },
+ {
+  "city": "Khairpur",
+  "id": "090623",
+  "address": "Khairpur Tamewali Branch",
+  "type": "Onsite",
+  "status": "Operational"
+ },
+ {
+  "city": "Ryk",
+  "id": "090505",
+  "address": "252/D-Block, Abu Dhabi Road, Satellite Town, Rahim Yar Khan",
+  "type": "Onsite",
+  "status": "Operational"
+ },
+ {
+  "city": "Sambrial",
+  "id": "099013",
+  "address": "Wazirabad Road Sambrial",
+  "type": "Onsite",
+  "status": "Operational"
+ },
+ {
+  "city": "Attock",
+  "id": "090409",
+  "address": "Civil Bazar Attock",
+  "type": "Onsite",
+  "status": "Operational"
+ },
+ {
+  "city": "Lahore",
+  "id": "090224",
+  "address": "Plot No.6 Pak Block, Allama Iqbal Town, Lahore",
+  "type": "Onsite",
+  "status": "Operational"
+ },
+ {
+  "city": "Lahore",
+  "id": "090210",
+  "address": "5-Main Feroz Pur Road Mozang Chungi Lahore.",
+  "type": "Onsite",
+  "status": "Operational"
+ },
+ {
+  "city": "Islamabad",
+  "id": "090417",
+  "address": "jinnah Avenue infront of Stock exchange building next to domnoz pizza Islamabad",
+  "type": "Onsite",
+  "status": "Operational"
+ },
+ {
+  "city": "Daska",
+  "id": "090705",
+  "address": "College Road Daska",
+  "type": "Onsite",
+  "status": "Operational"
+ },
+ {
+  "city": "Chakwal",
+  "id": "090407",
+  "address": "Rawalpindi Road Chakwal",
+  "type": "Onsite",
+  "status": "Operational"
+ },
+ {
+  "city": "Tobataksingh",
+  "id": "099037",
+  "address": "Shorkot Road Toba Tak Singh",
+  "type": "Onsite",
+  "status": "Operational"
+ },
+ {
+  "city": "Karachi",
+  "id": "190501",
+  "address": "Artistic Milliners Karachi",
+  "type": "Offsite",
+  "status": "Operational"
+ },
+ {
+  "city": "Talagang",
+  "id": "099031",
+  "address": "Mian Walli Road Talagang",
+  "type": "Onsite",
+  "status": "Operational"
+ },
+ {
+  "city": "Faisalabad",
+  "id": "090302",
+  "address": "Allama Iqbal Road opposite GCU Faisalabad",
+  "type": "Onsite",
+  "status": "Operational"
+ },
+ {
+  "city": "Sharaqpur",
+  "id": "090221",
+  "address": "Jaranwala Road Sharaqpur",
+  "type": "Onsite",
+  "status": "Operational"
+ },
+ {
+  "city": "Multan",
+  "id": "090617",
+  "address": "Mutlan Abdali Atm",
+  "type": "Onsite",
+  "status": "Operational"
+ },
+ {
+  "city": "Karachi",
+  "id": "090502",
+  "address": "Plot D-6/B, North Nazimabad, Hyderi Branch Karachi",
+  "type": "Onsite",
+  "status": "Operational"
+ },
+ {
+  "city": "Lahore",
+  "id": "090215",
+  "address": "House#28-B Ali Block New Garden Town Lahore (0215)",
+  "type": "Onsite",
+  "status": "Operational"
+ },
+ {
+  "city": "Liaquatpur",
+  "id": "090611",
+  "address": "Bank Road Liaquatpur",
+  "type": "Onsite",
+  "status": "Operational"
+ },
+ {
+  "city": "Ellahabad",
+  "id": "090214",
+  "address": "Kasur Road Ellahabad",
+  "type": "Onsite",
+  "status": "Operational"
+ },
+ {
+  "city": "Ghotki",
+  "id": "090509",
+  "address": "Devi Sahab Road Ghotki",
+  "type": "Onsite",
+  "status": "Operational"
+ },
+ {
+  "city": "Mirpur Khas",
+  "id": "090512",
+  "address": "Mirpur Khas Branch",
+  "type": "Onsite",
+  "status": "Operational"
+ },
+ {
+  "city": "Khairpur",
+  "id": "090508",
+  "address": "Station Road Khairpur",
+  "type": "Onsite",
+  "status": "Operational"
+ },
+ {
+  "city": "Yazman",
+  "id": "090619",
+  "address": "Bahawalpur Road Yazman",
+  "type": "Onsite",
+  "status": "Operational"
+ },
+ {
+  "city": "Hasilpur",
+  "id": "090610",
+  "address": "Baldia Road Hasilpur",
+  "type": "Onsite",
+  "status": "Operational"
+ },
+ {
+  "city": "Burewala",
+  "id": "090604",
+  "address": "Main Arif Bazar Burewala",
+  "type": "Onsite",
+  "status": "Operational"
+ },
+ {
+  "city": "Bhakkar",
+  "id": "090614",
+  "address": "Chisti Chowk Bhakkar",
+  "type": "Onsite",
+  "status": "Operational"
+ },
+ {
+  "city": "Hyderabad",
+  "id": "090503",
+  "address": "Guru Nagar Hyderabad",
+  "type": "Onsite",
+  "status": "Non-Operational"
+ }
+]

@@ -1,0 +1,36 @@
+{
+ "pepFocalPersons": [
+  {
+   "name": "M Vaqas Bin Khalid",
+   "department": "Financial Crime Monitoring",
+   "designation": "Head AML/CFT and Financial Crime Monitoring",
+   "landline": "",
+   "cell": "0320-7055380",
+   "email": "Vaqas.Khalid2@abhibank.com"
+  },
+  {
+   "name": "Abid Hussain",
+   "department": "Customer Experience",
+   "designation": "Head of Customer Experience",
+   "landline": "",
+   "cell": "0300-9438387",
+   "email": "Abid.Hussain8143@abhibank.com"
+  },
+  {
+   "name": "Rashid Ullah Khan",
+   "department": "Consumer Protection Department",
+   "designation": "Assistant Director",
+   "landline": "(021)-3311-5511",
+   "cell": "0318-2715745",
+   "email": "Rashid.khan@sbp.org.pk"
+  },
+  {
+   "name": "Haris Nazir",
+   "department": "Consumer Protection Department",
+   "designation": "Assistant Director",
+   "landline": "(021)-3311-3510",
+   "cell": "0339-0233240",
+   "email": "Haris.nazir@sbp.org.pk"
+  }
+ ]
+}

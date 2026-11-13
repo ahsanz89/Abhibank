@@ -1,0 +1,650 @@
+{
+ "cookie-guidelines": {
+  "title": "Cookie Guidelines",
+  "blocks": [
+   {
+    "k": "h",
+    "t": "1.1 Use Of Cookies"
+   },
+   {
+    "k": "p",
+    "t": "ABHI may use cookies, advertising, marketing and other tracking technology on any website including mobile websites and applications, other channels, or media used and connected to ABHI’s website. Website cookies are used to personalize and enhance the user’s experience."
+   },
+   {
+    "k": "h",
+    "t": "1.2 What is a cookie and what are they used for?"
+   },
+   {
+    "k": "p",
+    "t": "A cookie is a sequence of information deposited and stored on your web browser by ABHI or its third party vendors that becomes a unique identifier when you enquire or visit/revisit a site. Cookies are used to record your visits, preferences, pages visited, and keep you logged – all used by ABHI to improve the visitors experience."
+   },
+   {
+    "k": "h",
+    "t": "1.3 Types of Cookies used by ABHI"
+   },
+   {
+    "k": "p",
+    "t": "Advertising CookiesAdvertising cookies are placed on a computer by third party advertisers and ad servers that are approved by ABHI. These cookies display advertisements that might be of interest to the Customer/visitor. These cookies also allow the third parties to gather information about a visitor to the Site and other websites, alternate the ads sent to a specific computer, and track the frequency of the ad views. These cookies may/may not gather any personal information about the user."
+   },
+   {
+    "k": "p",
+    "t": "Analytics CookiesAnalytics cookies monitor how visitors reached the Site, and how they interact with and click through the Site. These cookies monitor the Site features and register the performance of the Site features."
+   },
+   {
+    "k": "p",
+    "t": "ABHI CookiesThese are “first-party cookies”, and can be either permanent or temporary. These are necessary in order for the Site to work properly or be able to provide certain features and functionalities. Disabling these types of Cookies may affect the Site’s functionality."
+   },
+   {
+    "k": "p",
+    "t": "Personalization Cookies.Personalization cookies are used to recognize repeat visitors to the Site. ABHI uses these cookies to record browsing history, the pages that were visited, and stores your settings and preferences each time the visitor accesses the Site."
+   },
+   {
+    "k": "p",
+    "t": "Security Cookies.These cookies identify and prevent security risks. They also authenticate users and protect visitors from unauthorized parties."
+   },
+   {
+    "k": "p",
+    "t": "Site Management Cookies.Site management cookies are used to maintain the visitor’s identity or session on the Site so that you are not logged off by accident. These cookies can/cannot be disabled along with other cookies in the visitor’s browser."
+   },
+   {
+    "k": "p",
+    "t": "Third-Party CookiesThird-party cookies may be placed on a visitor’s browser when visitor enters the Site by companies that run certain services or whom ABHI has approved. These cookies allow the third parties to gather and track certain information about the visitor. These cookies can be manually disabled in the visitor’s browser."
+   },
+   {
+    "k": "p",
+    "t": "Cookie BannerABHI adopts the Cookie Policy which shall provide a Cookie Banner when logging onto its website. Message to be displayed on the cookie banner is appended below.Bank uses cookies to personalize and enhance your experience on our site and improve the delivery of ads to you. Visit our Privacy Policy to learn more. By clicking “accept”, you agree to our use of cookies."
+   },
+   {
+    "k": "h",
+    "t": "1.4 Control and Removal of Cookies"
+   },
+   {
+    "k": "p",
+    "t": "Browsers are frequently set to accept cookies by default. However, a user can remove or reject cookies in the user’s browser’s settings. Please be aware that such action could affect the availability and functionality of the Site.For more information on how to control cookies, check your browser or device’s settings for how you can control or reject cookies. In addition, you may opt-out of some third-party cookies."
+   },
+   {
+    "k": "h",
+    "t": "1.5 Other Tracking Technologies"
+   },
+   {
+    "k": "p",
+    "t": "ABHI may use other tracking technologies on the Site to help customize the Site and improve a User’s experience."
+   },
+   {
+    "k": "h",
+    "t": "1.6 Privacy"
+   },
+   {
+    "k": "p",
+    "t": "The visitor/user should be directed to ABHI privacy policy for more information about how ABHI uses information collected by cookies and other tracking technologies. A statement will be included for the visitor/user that by using the Site, the User agrees to be bound by this Cookie Policy and Privacy Policy of the Bank."
+   },
+   {
+    "k": "h",
+    "t": "1.7 Contact Person"
+   },
+   {
+    "k": "p",
+    "t": "In case of any questions or comments about this Cookie Policy, please contact us at: [email protected]"
+   }
+  ]
+ },
+ "privacy-guidelines": {
+  "title": "Privacy Guidelines",
+  "blocks": [
+   {
+    "k": "p",
+    "t": "ABHI Microfinance Bank Limited (“ABHI/Bank”) operates this website for the purposes of informing the ABHI Network, Service vendors, its affiliates and companies interested in following its activities, and investing in or assisting it in providing the services/products to offer. The copyright in the website as a whole and in the content contained in this website is owned by ABHI or its affiliates or their respective owners. None of the text, copy, or graphics in this website may be reproduced in whole or in part (except for information clearly taken from the public domain) without the express prior written permission of ABHI."
+   },
+   {
+    "k": "p",
+    "t": "ABHI values support and is committed to protecting privacy of visitors of its Site. This statement addresses the concerns that the visitors to our site may have about the information they provide to us, and how we treat such information."
+   },
+   {
+    "k": "p",
+    "t": "ABHI uses its best efforts to respect the privacy of our online visitors. ABHI does not require visitors to its site to register or provide information to view the site. ABHI does not collect personally identifiable information from visitors to the website unless they provide the same voluntarily and knowingly. ABHI assures to keep confidential the identity of anyone who contacts through this website. In case of any questions about our ABHI’s privacy policy, please contact at:"
+   },
+   {
+    "k": "p",
+    "t": "ABHI Microfinance Bank Limited36-B, Khayaban-e-Iqbal, XX Block DHA Phase-IIILahore, Pakistan.042-111-111-562"
+   },
+   {
+    "k": "p",
+    "t": "Or e-mail us at"
+   },
+   {
+    "k": "p",
+    "t": "[email protected]"
+   },
+   {
+    "k": "p",
+    "t": "You may also email us if you:"
+   },
+   {
+    "k": "p",
+    "t": "Have questions about general informationHave comments and feedback"
+   },
+   {
+    "k": "h",
+    "t": "2.1 Information Collection"
+   },
+   {
+    "k": "p",
+    "t": "As mentioned above, ABHI does not require visitors to register or otherwise provide personally identifiable information in order to visit its site. ABHI does not collect personally identifiable information from individuals unless they provide it to ABHI on a voluntary basis. However, ABHI does compile some non-identifying basic information e.g. pages viewed by the visitors to the site for its internal use so as to improve the website and also to make visitors experience on the site as satisfying as possible."
+   },
+   {
+    "k": "p",
+    "t": "ABHI will maintain the names of persons, and company names of those requesting information regarding ABHI. ABHI may use these lists to contact persons and companies to determine if there is any interest in investing in or assisting with the products and services offered by ABHI. If visitor would like to remove their name or company from the list please call ABHI at the number provided above or write to [email protected]. We do not sell or share e-mail contact information to anyone."
+   },
+   {
+    "k": "h",
+    "t": "2.2 Careers and Internship Sections"
+   },
+   {
+    "k": "p",
+    "t": "ABHI requests contact information (such as name, email, and address), as well as personal information such as a resume and cover letter, from visitors on the employment, volunteer and internship opportunities pages. This information is used by ABHI for personnel purposes only and is not shared with outside organizations."
+   },
+   {
+    "k": "p",
+    "t": "2.3 ProfileABHI stores information that is collected through cookies and log files to track the viewing preferences of the visitors, but ABHI does not collect personal information through these means or share the information collected with third parties."
+   },
+   {
+    "k": "h",
+    "t": "2.4 Cookies"
+   },
+   {
+    "k": "p",
+    "t": "A “cookie” is a small piece of data stored on the device when someone visits the site. ABHI uses cookies to analyze site’s overall traffic patterns and improve the visitors’ online experience. ABHI does not use cookies to store or collect any personal information.For more information about cookies and how we use them, please refer to Cookie Guidelines."
+   },
+   {
+    "k": "h",
+    "t": "2.5 Log Files"
+   },
+   {
+    "k": "p",
+    "t": "Like most standard website servers, ABHI gathers certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track visitor’s movement in the aggregate, and gather broad demographic information for aggregate use. ABHI uses this information, which does not identify individual users, to analyze trends, to administer the site, to track users’ movements around the Web site and to gather demographic information about user community. Unless separately notified to the visitor, ABHI does not link this automatically collected data to visitor’s personal information or use it for other purposes."
+   },
+   {
+    "k": "h",
+    "t": "2.6 Links"
+   },
+   {
+    "k": "p",
+    "t": "This website contains links to other sites. Please be aware that ABHI has no control over and is not responsible for the contents or privacy practices of other sites. ABHI encourages the visitors to be aware when they leave site and to read the privacy statements of websites that collect personally identifiable information. This privacy statement applies solely to information collected by this website."
+   },
+   {
+    "k": "h",
+    "t": "2.7 Note to Parents"
+   },
+   {
+    "k": "p",
+    "t": "ABHI is pleased when young people visit http://www.Abhi.pk to learn more about the Bank and its work to alleviate poverty. ABHI does not knowingly solicit or retain personally identifiable information from individuals under the age of 18 and does not knowingly market to them."
+   },
+   {
+    "k": "h",
+    "t": "2.8 Security"
+   },
+   {
+    "k": "p",
+    "t": "ABHI takes precautions to protect the information of visitors to www.Abhi.pk Information submitted is protected both online and off-lineAll visitors’ information is restricted to ABHI offices/systems. Only employees who need the information to perform a specific job are granted access to personally identifiable information. In case of any questions about the security of the website, please write to [email protected]"
+   },
+   {
+    "k": "h",
+    "t": "2.9 Notification of changes"
+   },
+   {
+    "k": "p",
+    "t": "ABHI reserves the right to modify its privacy statement at any time by posting the same on the website."
+   }
+  ]
+ },
+ "terms-of-use": {
+  "title": "Terms Of Use",
+  "blocks": [
+   {
+    "k": "p",
+    "t": "Welcome to ABHI.pk (the “Site”), which is operated by ABHI Microfinance Bank Limited. The following Terms of Use (“Terms”) govern the access to and use of the Site. Please read these Terms carefully, because this document is a legal agreement. By accessing and using the Site you agree to these Terms. If you do not agree, please do not access or use the Site."
+   },
+   {
+    "k": "h",
+    "t": "3.1 Registration and User Submissions"
+   },
+   {
+    "k": "p",
+    "t": "Some features of the Site may require registration or filling in the forms to allow users to submit their own messages and other user-generated content (“User Submissions”). User agrees to provide accurate and complete information about themselves as requested or directed on the Site and to promptly update this information to maintain its accuracy. Users at all times remain fully responsible for their Submissions, for maintaining the confidentiality of username and password, and for all activities that occur under the respective password or account. User agrees to immediately notify ABHI if they become aware of any unauthorized use of their password or username or any other breach of security. ABHI has the right, but not the obligation, to monitor, review, remove, reject, or revise at any time, without prior notice and in its sole discretion, User Submissions that violate the Terms, are otherwise objectionable, or for any other reason."
+   },
+   {
+    "k": "p",
+    "t": "By submitting User Submissions to the Site, users grants ABHI, ABHI affiliates, and ABHI partners, a worldwide, perpetual, irrevocable, royalty-free, nonexclusive, sub-licensable license to use, reproduce, create derivate works of, distribute, publicly display, transfer, transmit, distribute, and publish the User Submissions in any form, medium, or technology now known or later developed. Users agree that they will not attempt to enforce any so-called “moral rights” in your User Submissions against us, our affiliates, or our partners."
+   },
+   {
+    "k": "h",
+    "t": "3.2 User Conduct"
+   },
+   {
+    "k": "p",
+    "t": "The Site is not intended for users under 18 years old. Users may not provide or publicly post personal information on the Site if they are under 18. By using the Site, they agree not to:"
+   },
+   {
+    "k": "p",
+    "t": "Violate any applicable laws, including without limitation by infringing the copyrights, trademarks, or other proprietary rights of ABHI or any third party;Harass, threaten, defame, abuse, or embarrass ABHI or any third party;Impersonate ABHI or any third party;Attempt to get a password, other account information, or other private information from others, or harvest e-mail addresses or other information;Post any commercial content, including advertising and promotional materials, unless explicitly authorized by ABHI;Engage in any conduct that inhibits or prevents ABHI or any other person from using or enjoying the Site, including without limitation taking any action that attempts to probe, scan, or test the vulnerability of ABHI systems or network, to breach its security or authentication measures, or to impose an unreasonable or unauthorized load or burden on the Site’s infrastructure; andEngage in any other conduct that ABHI determines, in its sole discretion, is offensive, vulgar, sexually explicit, obscene, offensive, or otherwise objectionable.3.3 Trademarks"
+   },
+   {
+    "k": "p",
+    "t": "According to native and international law about trademarks all rights in the product names, company names, trade names, logos, service marks, trade dress, slogans, and designs of ABHI products or services, whether or not appearing in large print or with the trademark symbol, belong exclusively to ABHI or its affiliates or their respective owners and are protected from reproduction, imitation, dilution, or confusing or misleading uses under national and international trademark and copyright laws. Unless expressly permitted herein, the use or misuse of these trademarks is prohibited, and nothing stated or implied on the Site confers on you any license or right to any trademark of ABHI, its affiliates or any third party. Consistent with this Agreement and any other terms and conditions provided on the Site, by using the e-link provided by ABHI containing its trademarks (the “Link”) for the sole purpose of linking to ABHIIMPACT.COM or to a team donation page from other websites, provided that your use of such Link may not create an impression that ABHI endorses, approves, sponsors or is affiliated with your products, goods, services, or your website and may not be linked from any website that includes content or advertising for pornography, partisan material, in addition unauthorized advertising of firearms, or any other content or advertising that may dilute or otherwise damage ABHI goodwill or reputation."
+   },
+   {
+    "k": "h",
+    "t": "3.4 Copyright"
+   },
+   {
+    "k": "p",
+    "t": "The Site (including, but not limited to, text, images, photographs, graphics, user interface, screen shots, designs, and computer code, and the selection, coordination, and arrangement of such materials) is protected under the copyright laws of Pakistan. All copyrights in the Site are owned by ABHI its affiliates or its third-party licensors to the full extent permitted under the Copyright laws applicable thereto. Except for content that users have posted on the Site, or unless expressly permitted in writing, users may not copy, reproduce, distribute, publish, enter into a database, display, perform, modify, create derivative works, transmit, or in any way exploit any part of the Site.If users believe in good faith that their copyrighted work has been reproduced on or linked from the Site without authorization in a way that constitutes copyright infringement, they can provide to ABHI designated copyright agent with the following information:"
+   },
+   {
+    "k": "p",
+    "t": "Identification of the copyrighted work claimed to have been infringed;Identification of the allegedly infringing material that is requested to be removed;Your name, address and daytime telephone number, and an e-mail address if available, so that we may contact you if necessary;A statement that you have a good-faith belief that the use of the copyrighted work is not authorized by the copyright owner, its agent, or the law;A statement that the information in the notification is accurate, and under penalty of perjury, that the signatory is authorized to act on behalf of the owner of an exclusive copyright right that is allegedly infringed; andAn electronic or physical signature of the copyright owner or someone authorized on the owner’s behalf to assert infringement of copyright and to submit the statement.Our copyright agent for notice of claims of infringement on the Site is:Mr. Muhammad Ali Butt – Sr. Manager Legal – Email address: [email protected]ABHI will remove any content that infringes upon the copyright of any person under the laws of Pakistan upon receipt of such statement and will terminate the privileges of users who repeatedly infringe on the copyright of others."
+   },
+   {
+    "k": "h",
+    "t": "3.5 Privacy Policy"
+   },
+   {
+    "k": "p",
+    "t": "ABHI Privacy Policy explains how it handles the personal information that have been obtained about users through the Site. By accessing the Site, Users indicate that they understand and agree to the information collection, use, and disclosure practices described in the Privacy Policy, which is incorporated in these Terms. If users have questions about the privacy practices, they can contact at [email protected] or [email protected]. User may review our privacy guidelines through this link (Link to be attached)."
+   },
+   {
+    "k": "h",
+    "t": "3.6 Third-Party Content and Links to Third-Party Websites"
+   },
+   {
+    "k": "p",
+    "t": "The Site may contain third-party content and links to other websites (“Linked Sites”). ABHI does not endorse, sponsor, recommend, or otherwise accept responsibility for any Linked Sites. ABHI also does not control the Linked Sites and is not responsible for the content or privacy practices of the Linked Sites."
+   },
+   {
+    "k": "h",
+    "t": "3.7 Disclaimer of Warranties; Limitation of Liability"
+   },
+   {
+    "k": "p",
+    "t": "The site is provided “as is” and “with all faults.” ABHI makes no representation or warranty of any kind, whether express or implied, relating to the site, including without limitation any warranties of merchantability, fitness for a particular purpose, non-infringement, accuracy, reliability, or performance."
+   },
+   {
+    "k": "p",
+    "t": "In no event will ABHI or its affiliates be liable for any direct, incidental, consequential, indirect, special, or punitive damages arising out of your access, use, misuse, or inability to use the site, or in connection with any failure of performance, error, omission, interruption, defect, delay in operation or transmission, computer virus, or line or system failure. In the event that users have a dispute with another user related to, arising from, or in any way connected with use of the site, Users release ABHI from any claims, demands, and damages of every kind and nature arising out of or in any way connected with such a dispute. These limitations apply whether the alleged liability is based on contract, tort, negligence, strict liability, or any other basis, even if we have been advised of the possibility of such damage."
+   },
+   {
+    "k": "p",
+    "t": "Because some jurisdictions do not allow the exclusion or limitation of certain damages, ABHI’s liability in such jurisdictions shall be limited to the minimum extent permitted by the governing law."
+   },
+   {
+    "k": "h",
+    "t": "3.8 Indemnity"
+   },
+   {
+    "k": "p",
+    "t": "User agree to indemnify and hold ABHI harmless from any loss, liability, claim, or demand, including reasonable attorney’s fees, made or incurred by any third party due to or arising (directly or indirectly) out of your access to or use of the Site or arising from your breach of this Agreement."
+   },
+   {
+    "k": "h",
+    "t": "3.9 Termination"
+   },
+   {
+    "k": "p",
+    "t": "ABHI reserves the right to remove or refuse to post or distribute User Submissions that ABHI determines, in its sole discretion, violate these Terms of Use and to restrict, suspend, or terminate the participation of any user from the Site at any time, with or without prior notice, who we determine, in our sole discretion, has or is violating these Terms of Use. We may terminate this agreement for any reason at any time. Otherwise applicable sections of this agreement shall survive such termination."
+   },
+   {
+    "k": "h",
+    "t": "3.10 Miscellaneous"
+   },
+   {
+    "k": "p",
+    "t": "We may make changes to these Terms or modify any features of the Site at any time, in our sole discretion. The most current version of the Terms can be viewed by clicking on the “Privacy Policy” and “Terms of Use” link on the home page of the Site. By continuing to access and use the Site, users indicate that they accept any changes to the Terms.These Terms of Use contain the entire agreement between user and ABHI regarding the use of the Site. If any provision of these Terms of Use is held invalid, the remainder of the Terms of Use shall continue in full force and effect."
+   },
+   {
+    "k": "h",
+    "t": "3.11 Contact Us"
+   },
+   {
+    "k": "p",
+    "t": "If users have any questions about these Terms of Use, please contact ABHI at:ABHI Microfinance Bank Limited36-B, Khayaban-e-Iqbal, XX Block DHA Phase-III, LahoreHelpline: (042) 111-111-562Fax: 042-37132664Or e-mail us at[email protected]"
+   }
+  ]
+ },
+ "onboarding-terms-conditions": {
+  "title": "DIGITAL FINANCIALSERVICES",
+  "blocks": [
+   {
+    "k": "li",
+    "t": "Bank will open any account on production of CNIC/ SNIC/ NADRA token/ Passport/ Pakistan Origin Card/ NICOP/ Alien registration card and their attested copy, required information and important documents and signed AOF which will be independently verified by bank. Any non-verification or if something is found wrong / mismatched, Bank has the right to stop the transaction till clearance of ambiguity or close the account. On expired CNIC/ SNIC/ NICOP/ POC/ ARG/ Passport an account will be opened and operated as per Bank Policy. A distinctive ‘Account Number’ will be allotted to each account which shall be quoted in all correspondence relating to the account and at the time of making deposits or withdrawals."
+   },
+   {
+    "k": "li",
+    "t": "Bank should be immediately communicated in writing for any change in the address or personal information of the customer account. For any change bank will accept only those signatures provided by the account holder on the SS card at the time of opening of account or updated signature available in Bank record. The Bank will not be liable for wrong delivery, if customer didn’t notify the Bank with the updated/change of address."
+   },
+   {
+    "k": "li",
+    "t": "I / We agree that Pakistan laws and regulations and internal policy of the bank is applicable on bank and account holder follow those laws and regulations and bound to provide information for compliance."
+   },
+   {
+    "k": "li",
+    "t": "The client information will be confidential, and the Bank is committed to safeguard and ensure confidentiality of the information. However, the Bank may disclose personal data about client to those who provide services (like Banking software vendors, security stationary vendors etc.) to ABHI Microfinance Bank Ltd., under non-disclosure agreement with them agents, and the Bank can also share any information regarding the Client i.e., ECIB & Data Check or any other information required by any other department, agency/authority under binding of law."
+   },
+   {
+    "k": "li",
+    "t": "Not more than one account of each category may be opened in any one name, in one and the same branch. If an Account holder wishes to transfer his account to another branch, he/she will be required to open a new account in a branch of his choice and to close his existing account after completing all the formalities."
+   },
+   {
+    "k": "li",
+    "t": "Accounts in the name of Minor children will be opened with a Guardian who will be responsible for all operations in the account. Title of Account will be in the Minor’s Name with Father or Mother or Court appointed Guardian’s Name and account can be opened by them on Minor’s behalf. When the Minor attains 18 years of age, the account is required to be closed and the balance in the account will, be transferred to a new account which he/she will have to open after completing the required formalities."
+   },
+   {
+    "k": "li",
+    "t": "The bank can transfer accounts to other branches in case of branch closure/mergers without affecting the profit."
+   },
+   {
+    "k": "li",
+    "t": "If the Account is opened in the names of two or more persons, the credit balance thereof at any time shall belong to the customers jointly and severally liable for all liabilities incurred on the Account and the Services."
+   },
+   {
+    "k": "li",
+    "t": "Where an Account is operated with a single signing authority, oral and/or written instructions from any of the Customer’s will be accepted at the Bank’s discretion and will be binding on the other Customer."
+   },
+   {
+    "k": "li",
+    "t": "If such account is operated with joint signing authority, oral instructions will not be accepted from any one or more joint account holders unless previously authorized by all account holders in writing or by digital means as made available by the Bank."
+   },
+   {
+    "k": "li",
+    "t": "Where the Account is operated with single signing authority, the Bank receives contradictory instructions from another signatory, the Bank may, at its absolute discretion, only act on the instructions of all signatories notwithstanding that any relevant existing mandate or instructions specify otherwise."
+   },
+   {
+    "k": "li",
+    "t": "lliterate persons/persons with shaky signatures will be required to provide photographs for identification."
+   },
+   {
+    "k": "li",
+    "t": "If the applicant already holds an account with the Bank, then to open an Additional Account, he/she will have to complete the Additional AOF and fulfill all formalities as per bank policy."
+   },
+   {
+    "k": "li",
+    "t": "The Bank will take due care to record that the credit and debit entries are correctly recorded in the account but in case of any error, the Bank shall be within its right at all time to make the correct adjusting entries without prior notice. The bank shall not be liable for any damages, losses etc. consequent upon such rectification."
+   },
+   {
+    "k": "li",
+    "t": "The Bank may accept for collection, cheques and other instruments, payable only to the account holder. The Bank shall endeavor to collect cheques/other instruments as promptly and carefully as is possible. However, the Bank will accept no responsibility in case of any delay or loss caused by reasons beyond its control."
+   },
+   {
+    "k": "li",
+    "t": "Account holder will be responsible for endorsement on all instruments and all instruments should be crossed before they are deposited for crediting in the account."
+   },
+   {
+    "k": "li",
+    "t": "Cheques and other instruments, deposited by the account holders for clearing, which have been returned by drawee Bank, will be returned to account holder as per Bank policy."
+   },
+   {
+    "k": "li",
+    "t": "Upon depositing of any sum or instrument in the account it will be account holder responsibility to receive deposit slip having bank stamp and authorized signature which show name and account number of the account to be credited. The Deposit Slip will only be valid if it is manually signed by authorized official/s of the Bank, and stamp of the Bank is affixed himself. Bank will not be responsible in absence of this deposit slip."
+   },
+   {
+    "k": "li",
+    "t": "In the event of any instrument deposited, being returned for any reason whatsoever or being returned at any time, although previously advised as paid, the account holder will refund the proceeds of the said instrument and indemnify the Bank against all losses and cost arising there from and authorize the Bank to debit such amount and expenses to any account which the account holder may have with the Bank."
+   },
+   {
+    "k": "li",
+    "t": "Customer can withdraw from his account by means of printed cheques supplied to him by the Bank for the particular account or through other Alternate Delivery channels such as ATMs. Cheques should be signed by the account holder/authorized signatory/s as per specimen signature supplied to the bank. Any alteration(s) thereon must be authenticated by drawer’s full signature / thumb impression."
+   },
+   {
+    "k": "li",
+    "t": "Illiterate persons / persons with shaky signatures will have to personally visit the branch for making withdrawals in cash only and will have to sign / apply thumb impression on cheques in the presence of Bank officials. The branch may accept request for account to account transfers and issuance of Banker’s cheque from the customer’s account who can sign/apply thumb impression in presence of Bank officials."
+   },
+   {
+    "k": "li",
+    "t": "The Bank reserves at all times the right to refuse payment of cheques, which are not in order as per banking law/practice."
+   },
+   {
+    "k": "li",
+    "t": "In case Current/Saving/Term Deposit accounts remain inoperative for a period of 10 years, the balance in the said account will be considered as ‘unclaimed’ and will be surrendered to the State Bank of Pakistan. Any instrument such as Drafts, Pay Orders, Bankers Cheque etc. which remain outstanding for a period of 10 years, shall also be classified as ‘unclaimed’ and their cover will be surrendered to SBP."
+   },
+   {
+    "k": "li",
+    "t": "Statement of account/s will be provided/ sent free of cost to the account holder by courier/post as per bank policy formulated in line with the State Bank of Pakistan directives and bank’s own policy. The contents of the statement will be deemed correct, final and conclusive at Bank’s end unless any discrepancy / error is notified in writing to the Bank within 15 days. In case of any error, the bank reserves its rights, at all time to make adjusting entries to rectify the error without notice."
+   },
+   {
+    "k": "li",
+    "t": "Bank will recover any wrongly paid amount together with any accrued profit/interest without notice. However, the Bank shall not be liable for any loss or damage due to such error."
+   },
+   {
+    "k": "li",
+    "t": "If statement of account is lost or spoiled due to any reason, upon written request from account holder duplicate statement of account will be provided and charges will be applicable as per SOC."
+   },
+   {
+    "k": "li",
+    "t": "The Bank in its sole discretion to close an account without assigning any reason which in its opinion is not satisfactorily operated or not meeting the parameters of KYC policy/Bank’s laid down policy regarding account maintenance."
+   },
+   {
+    "k": "li",
+    "t": "The account holder wishing to close the account and wanting to draw the balance amount will give a written request and return all unused cheques/ATM cards relating to the account. Alternatively, it must be confirmed to the satisfaction of the Bank in writing that the unused cheques/ATM card have been destroyed."
+   },
+   {
+    "k": "li",
+    "t": "The Bank in its sole discretion to close an account without prior notice as per bank policy."
+   },
+   {
+    "k": "li",
+    "t": "The Bank shall have discharged its liability with respect to an account closed on whatever reason by mailing to the account holder at his/her last known address as per banks record, a Pay Order payable to the order of the account holder in the amount of then credit balance of such account less deduction(s) in respect of the amount of any claim that the bank may have on such funds constituting the credit balance."
+   },
+   {
+    "k": "li",
+    "t": "The cheque book may be collected within 60 days of request have been made, after which the cheque book shall be destroyed by the Bank and charges will be deducted from account. Account holder will apply for new cheque book if destroyed by the bank, spoiled, lost or stolen by the account holder and charges for new cheque book will be applicable as per SOC."
+   },
+   {
+    "k": "li",
+    "t": "It is the account holder responsibility to keep the cheque book(s) in the safe custody and incase of lost immediately inform bank. In case it is stolen/lost or misplaced, the Bank will not be responsible for its misuse."
+   },
+   {
+    "k": "li",
+    "t": "The bank is authorized to release the account holder name and account number to the printing vendors for the purpose of cheque book printing."
+   },
+   {
+    "k": "li",
+    "t": "Account holder or authorized representative must count the leaves of cheque book on its receipt otherwise bank will not be responsible."
+   },
+   {
+    "k": "li",
+    "t": "The Bank shall determine from time to time the rate of interest/return/profit payable on the account/deposit in accordance with the prevailing rules and regulations of the State Bank of Pakistan and the policies of the Bank which are subject to change from time to time and the account holder/depositor agrees to accept such rate of interests/return/profit without prior notice."
+   },
+   {
+    "k": "li",
+    "t": "The profit/loss, earned/incurred on PLS accounts will be credited/debited as determined by the Bank own policy."
+   },
+   {
+    "k": "li",
+    "t": "In case of term deposit profit will be paid on maturity or on agreed frequency. Before completion of term, reduce rate will be applied upon payment."
+   },
+   {
+    "k": "li",
+    "t": "No profit is paid on current account."
+   },
+   {
+    "k": "li",
+    "t": "In case a deposit matures on a public holiday, then the bank shall pay the deposit and/or the interest/return/profit on the next working day."
+   },
+   {
+    "k": "li",
+    "t": "Zakat will be deducted as per Zakat and Usher Ordinance 1980.Zakat wherever applicable shall be deducted on valuation dates from the accounts having balance in excess of the exempted limit as declared for that particular Zakat year. Declaration on prescribed Performa for exemption of deduction of Zakat should be registered with the Bank at least one month prior to the valuation date or as per Zakat rules applicable from time to time."
+   },
+   {
+    "k": "li",
+    "t": "Withholding Tax/Income Tax or any kind of tax shall be recovered on any Banking Transaction/Profit amount as per law in force."
+   },
+   {
+    "k": "li",
+    "t": "Bank is authorized to debit account for recovery of charges as per their Schedule of Charges. The Bank may from time to time and at any time revise, amend, delete or supplement in Schedule of Charges without any prior notice. Account holder can obtain copy of Schedule of Charges from any branch of Bank free of cost."
+   },
+   {
+    "k": "li",
+    "t": "Account not operated for 1 year will be marked as dormant and after for 1.5 year will be marked as inoperative. However an account opened in the system and no financial transaction initiated within one month of opening of the account it will be treated as an inoperative account."
+   },
+   {
+    "k": "li",
+    "t": "In order to reactivate a dormant and/or inoperative account, the customer will be required to visit the parent branch personally and submit a written application and will have to produce a valid original CNIC/SNIC or passport/ NICOP Alien Registration card/ Pakistan origin card for branch attestation and must submit copy of the same to bank for record keeping."
+   },
+   {
+    "k": "li",
+    "t": "The Bank is authorized to deposit/withdraw any amount like charges, zakat, tax(if applicable) from dormant/inoperative account, but these transactions will not be treated as activation of account."
+   },
+   {
+    "k": "li",
+    "t": "Bank shall receive stop payment instruction from account holder in writing which shall comprise complete details of cheque(s)"
+   },
+   {
+    "k": "li",
+    "t": "Cheque number"
+   },
+   {
+    "k": "li",
+    "t": "Date"
+   },
+   {
+    "k": "li",
+    "t": "Cheque amount"
+   },
+   {
+    "k": "li",
+    "t": "Payee’s name"
+   },
+   {
+    "k": "li",
+    "t": "Reason of stop payment"
+   },
+   {
+    "k": "p",
+    "t": "Bank will utmost try to act upon the instructions however bank will not be liable in any case for payment."
+   },
+   {
+    "k": "li",
+    "t": "In case the bank receives notice regarding demise of account holder the bank will stop operation immediately in the account. The credit balance will be payable to the legal heirs after obtaining Indemnity Bond / Succession Certificate. In case of joint account operated by “Either or Survivor” instruction, the bank will stop operation immediately in the account. The credit balance will be payable to the legal heirs after obtaining Indemnity Bond / Succession Certificate."
+   },
+   {
+    "k": "li",
+    "t": "The bank reserves the right to refuse to open an account/establish customer relationship with an applicant who is not willing to provide FATCA information. Bank shall have the right to disclose personal information of customer’s account, directly or indirectly to Foreign Regulator or Tax Authorities (or his representatives or agents) or any other authority."
+   },
+   {
+    "k": "li",
+    "t": "SMS alerts are short messages service sent to the Customer triggered by certain events (like Debits/Credits), taking place in the Account of the Customer. Bank will send SMS alerts to the Customer on the mobile phone number of the Customer duly registered. In case of a joint account, all account communication will be ONLY sent to the mobile phone number registered with the Bank."
+   },
+   {
+    "k": "li",
+    "t": "Bank shall have the right to withdraw any Alert and/or add any Alert at any time without giving prior information to the customers and/or without assigning any reason thereof."
+   },
+   {
+    "k": "li",
+    "t": "Change of mobile phone number can only be done by the Bank on receipt of authenticated request from the Customer. In case of joint account; the change of mobile phone number request should be signed by all account holders for it to be affected by the Bank."
+   },
+   {
+    "k": "li",
+    "t": "Bank on best effort basis may send SMS Alerts to customers on Mobile Phone, registered with the Bank. However, the Bank shall not be responsible or liable for the delayed, and/or non-delivery or receipt of the Alerts. Bank will not be responsible for any SMS alert/ information sent by the Bank at such mobile phone number, but not received by the Customer due to any reason whatsoever including but not limited to the fault of service provider, not read by the Customer and /or SMS alert/information not being delivered due to the mobile phone number not being in service. In case of non-delivery of SMS alert, Bank will not be responsible or liable to re-deliver the same. Bank shall not be responsible or liable for the incomplete, inaccurate of Alerts."
+   },
+   {
+    "k": "li",
+    "t": "The Bank shall not be liable for any unauthorized use/ access to the information sent by the bank to the mobile phone number for fraudulent duplicate or erroneous use/ misuse of such information by any third person."
+   },
+   {
+    "k": "li",
+    "t": "Notwithstanding the above, it is clarified that even though account holder has subscribed to the SMS alert facility, the bank is under no obligation to send SMS alerts. Furthermore, the bank reserve the right to send the SMS alerts to only those account holder who are availing the services of a specific service provider."
+   },
+   {
+    "k": "li",
+    "t": "The account holder hereby authorizes the Bank to send promotional messages including the products of the Bank, greetings or any other messages the Bank may choose to send from time to time."
+   },
+   {
+    "k": "li",
+    "t": "The service being provided by the Bank may be temporarily suspended at any time for the purpose of carrying out repair and maintenance work in respect thereof, such suspension may also be carried out with respect of any security procedure required to be followed by the Bank."
+   },
+   {
+    "k": "li",
+    "t": "The Bank accepts no liability for the consequences arising out of erroneous, incorrect or incomplete information/mobile number supplied by the account holder. If the Customer suspects that there is an error in the information/mobile no. supplied to the Bank by him, he/she shall inform the Bank as soon as possible. The Bank makes endeavor to rectify the error wherever possible on ‘best effort’ basis."
+   },
+   {
+    "k": "li",
+    "t": "The bank will take all reasonable steps to ensure the accuracy of the information being sent as SMS alert to the account holder; the Bank is not liable for any error. The Customer shall hold the Bank harmless against any loss, damages, etc., that may be incurred/suffered by the Customer if the information contained in the above said alert turns out to be inaccurate/ incorrect/incomplete."
+   },
+   {
+    "k": "li",
+    "t": "The SMS alerts for each Account/service shall be issued on a frequency as determined by the Bank from time to time. Bank reserves the right to rectify discrepancies if any, at any point of time."
+   },
+   {
+    "k": "li",
+    "t": "The ATM card shall only be used by the account holder and is not transferable. If the account holder authorizes anybody else to use his/her card, despite the prohibition, then he/she will be exclusively responsible for any consequences."
+   },
+   {
+    "k": "li",
+    "t": "The account holder shall at no time and under no circumstances, disclose to any person whomsoever his/her PIN allotted for operating the ATM card of the bank and immediately change PIN after issuance of ATM Card."
+   },
+   {
+    "k": "li",
+    "t": "The account holder further undertakes to accept full responsibility for all transactions made by the use of ATM CARD whether or not made with his/her knowledge or authority and he/she shall accept the BANK’s record of transaction(s) as binding for all purpose."
+   },
+   {
+    "k": "li",
+    "t": "The account holder hereby irrevocably authorizes the Bank to debit (without any prior notice), the account(s), for the amount of any withdrawal, transfer and/or transaction involving the use of the ATM CARD at the ATM, whether or not made by his/her knowledge or by his/her authority."
+   },
+   {
+    "k": "li",
+    "t": "In the event of loss or theft of ATM card, the account holder shall immediately notify such loss or theft to concern branch in writing. Loss or theft of ATM card can also be intimated through telephone 042-111-111-562 by account holder followed by written confirmation. The Bank will make all endeavors to stop the transaction(s) of the lost or stolen ATM card, however the bank shall in no case be liable for any transaction and the account(s) will be debited accordingly."
+   },
+   {
+    "k": "li",
+    "t": "For joint account(s) which are operated by one or more of the account holders, all the joint account holders will be, jointly and severally, liable for all the transactions processed by the use of ATM CARD and terms and conditions herein shall be jointly and severally binding on all account holders and, as the context requires, termed herein, denoting the singular, shall include the plural and vice versa."
+   },
+   {
+    "k": "li",
+    "t": "The Bank shall not be responsible for any consequence, if the transactions involving the use of ATM card are not honored for any reason, whatsoever or there is any mal-functioning and or failure of the ATM machine."
+   },
+   {
+    "k": "li",
+    "t": "The ATM card issued to the account holder shall remain, at all times, the property of the Bank and shall be surrendered to the Bank on demand. The Bank, at its sole discretion, reserves the right, at all times, to terminate the arrangement, cancel or withdraw the ATM CARD or refuse to reissue, renew or replace the ATM CARD without assigning any reason or giving prior notice to the account holder."
+   },
+   {
+    "k": "li",
+    "t": "The Bank shall in no case be liable to the account holder for non-availability of ATM services for any reasons whatsoever, including any mechanical fault, communication lines failure or power break down etc."
+   },
+   {
+    "k": "li",
+    "t": "The Bank shall be entitled to alter, amend and/or add to these terms and conditions from time to time as the Bank may in its absolute discretion think fit, without giving any prior notice to account holder."
+   },
+   {
+    "k": "li",
+    "t": "The account holder may also authorize the Bank to link his/her account with supplementary ATM CARD issued in another name. Account holder indemnifies the Bank and holds it harmless against any loss, damage, liability, cost and expense incurred, suffered as a result of the loss, theft, misuse or unauthorized use of supplementary card and Bank shall have no responsibility or liability for any act or omission of supplementary card holder."
+   },
+   {
+    "k": "li",
+    "t": "The Bank shall not be responsible for any act of theft, robbery, loss etc. of any sum whatsoever committed within or outside of the Bank premises after the sum is withdrawn from ATM by the account holder or any other person holding ATM CARD with or without knowledge of the account holder."
+   },
+   {
+    "k": "li",
+    "t": "The Bank is authorized to block ATM CARD transaction or any other service linked with it at any time, without prior notice to the account holder(s) and without providing reason."
+   },
+   {
+    "k": "li",
+    "t": "The account holder(s) cannot cancel a transaction after it has been completed."
+   },
+   {
+    "k": "li",
+    "t": "The account holder will be liable for all losses or cost incurred by the Bank as a result of any breach by the account holder of the terms and conditions contained herein and shall reimburse to the Bank all such costs on the Bank first demand."
+   },
+   {
+    "k": "li",
+    "t": "In the event that the account holder account is debited and cash is not disbursed or disbursed short when the ATM CARD is used at another Bank or ABHI BANK ATM machine, the account holder will submit a claim for the respective transaction/amount with concern branch. The Bank will only reverse the entry for the claimed amount after verifying such claim with the respective Bank whose ATM was used."
+   },
+   {
+    "k": "li",
+    "t": "It would be mandatory for the account holder to sign on the back of ATM CARD."
+   },
+   {
+    "k": "li",
+    "t": "To safe guard the interest of account holder, the Bank may impose a Daily/Weekly/Monthly limit on ATM CARD transaction."
+   }
+  ]
+ }
+}
